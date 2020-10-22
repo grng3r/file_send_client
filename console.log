@@ -1,0 +1,2073 @@
+10/03 14:51:26 [RenderSystem] CreateDevice: Requested DX level 110, clamped to DX level 97
+10/03 14:51:26 [RenderSystem] Loaded video settings config from 'cfg\video.txt'
+10/03 14:51:26 PIX was NOT detected.
+10/03 14:51:26 [RenderSystem] PERF WARNING: Texture pool size set to more than 80% of total GPU memory.
+10/03 14:51:26 [RenderSystem] PERF WARNING: Texture pool size set to more than 80% of total GPU memory.
+10/03 14:51:28 [Filesystem] ---------------
+10/03 14:51:28 [Filesystem] Path ID:             File Path:
+10/03 14:51:28 [Filesystem] ADDONS               "C:\Steam\steamapps\common\dota 2 beta\game\dota_addons\" 
+10/03 14:51:28 [Filesystem] CONTENT              "C:\Steam\steamapps\common\dota 2 beta\content\dota\" 
+10/03 14:51:28 [Filesystem] CONTENT              "C:\Steam\steamapps\common\dota 2 beta\content\core\" 
+10/03 14:51:28 [Filesystem] CONTENTADDONS        "C:\Steam\steamapps\common\dota 2 beta\content\dota_addons\" 
+10/03 14:51:28 [Filesystem] CONTENTROOT          "C:\Steam\steamapps\common\dota 2 beta\content\" 
+10/03 14:51:28 [Filesystem] DEFAULT_WRITE_PATH   "C:\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk" (vpk) C:\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk
+10/03 14:51:28 [Filesystem] DEFAULT_WRITE_PATH   "C:\Steam\steamapps\common\dota 2 beta\game\dota\" 
+10/03 14:51:28 [Filesystem] EXECUTABLE_PATH      "C:\Steam\steamapps\common\dota 2 beta\game\bin\win64\" 
+10/03 14:51:28 [Filesystem] EXECUTABLE_PATH      "C:\Steam\steamapps\common\dota 2 beta\game\bin\" 
+10/03 14:51:28 [Filesystem] GAME                 "C:\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk" (vpk) C:\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk
+10/03 14:51:28 [Filesystem] GAME                 "C:\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk" (vpk) C:\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk
+10/03 14:51:28 [Filesystem] GAME                 "C:\Steam\steamapps\common\dota 2 beta\game\dota\shaders_pc.vpk" (vpk) C:\Steam\steamapps\common\dota 2 beta\game\dota\shaders_pc.vpk
+10/03 14:51:28 [Filesystem] GAME                 "C:\Steam\steamapps\common\dota 2 beta\game\core\shaders_pc.vpk" (vpk) C:\Steam\steamapps\common\dota 2 beta\game\core\shaders_pc.vpk
+10/03 14:51:28 [Filesystem] GAME                 "C:\Steam\steamapps\common\dota 2 beta\game\dota\" 
+10/03 14:51:28 [Filesystem] GAME                 "C:\Steam\steamapps\common\dota 2 beta\game\core\" 
+10/03 14:51:28 [Filesystem] GAMEBIN              "C:\Steam\steamapps\common\dota 2 beta\game\dota\bin\win64\" 
+10/03 14:51:28 [Filesystem] GAMEBIN              "C:\Steam\steamapps\common\dota 2 beta\game\dota\bin\" 
+10/03 14:51:28 [Filesystem] GAMEBIN              "C:\Steam\steamapps\common\dota 2 beta\game\core\bin\win64\" 
+10/03 14:51:28 [Filesystem] GAMEBIN              "C:\Steam\steamapps\common\dota 2 beta\game\core\bin\" 
+10/03 14:51:28 [Filesystem] GAMEROOT             "C:\Steam\steamapps\common\dota 2 beta\game\" 
+10/03 14:51:28 [Filesystem] MOD                  "C:\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk" (vpk) C:\Steam\steamapps\common\dota 2 beta\game\dota\pak01.vpk
+10/03 14:51:28 [Filesystem] MOD                  "C:\Steam\steamapps\common\dota 2 beta\game\dota\" 
+10/03 14:51:28 [Filesystem] PLATFORM             "C:\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk" (vpk) C:\Steam\steamapps\common\dota 2 beta\game\core\pak01.vpk
+10/03 14:51:28 [Filesystem] PLATFORM             "C:\Steam\steamapps\common\dota 2 beta\game\core\" 
+10/03 14:51:28 [Filesystem] SHADER_SOURCE        "C:\Steam\steamapps\common\dota 2 beta\src\shaders\dota\" 
+10/03 14:51:28 [Filesystem] SHADER_SOURCE        "C:\Steam\steamapps\common\dota 2 beta\src\shaders\core\" 
+10/03 14:51:28 [Filesystem] SHADER_SOURCE        "C:\Steam\steamapps\common\dota 2 beta\src\shaders\dota_*LANGUAGE*_addons\" 
+10/03 14:51:28 [Filesystem] SHADER_SOURCE        "C:\Steam\steamapps\common\dota 2 beta\src\shaders\dota_addons\" 
+10/03 14:51:28 [Filesystem] SHADER_SOURCE        "C:\Steam\steamapps\common\dota 2 beta\src\shaders\dota_core\" 
+10/03 14:51:28 [Filesystem] SHADER_SOURCE_MOD    "C:\Steam\steamapps\common\dota 2 beta\src\shaders\dota\" 
+10/03 14:51:28 [Filesystem] SHADER_SOURCE_ROOT   "C:\Steam\steamapps\common\dota 2 beta\src\shaders\" 
+10/03 14:51:28 [CommandLine] command line arguments:
+10/03 14:51:28 [CommandLine] -steam +engine_experimental_drop_frame_ticks 1 +voice_fadeouttime 0 -force_recommend_dx11 -developer -console -ti_onstage 1 -condebug
+10/03 14:51:28 [SteamNetSockets] Initialized low level socket/threading support.
+10/03 14:51:28 [SteamNetSockets] \src\steamnetworkingsockets\clientlib\csteamnetworkingsockets_steam.cpp(138): Assertion Failed: Initted interface twice?
+10/03 14:51:28 [SteamNetSockets] Set SteamNetworkingSockets P2P_STUN_ServerList to '155.133.250.146:3478' as per SteamNetworkingSocketsSerialized
+10/03 14:51:28 [SteamNetSockets] RelayNetWorkStatus:  avail=Attempting  config=Attempting  anyrelay=Not Attempted   (Attempt #1 to fetch config from https://api.steampowered.com/ISteamApps/GetSDRConfig/v1?appid=570&partner=valve)
+10/03 14:51:28 [SteamNetSockets] AuthStatus (steamid:76561197984927295):  Attempting  (Requesting cert)
+10/03 14:51:28 [SteamNetSockets] Pending ping measurement until network config is obtained.
+10/03 14:51:28 [SteamNetSockets] RelayNetWorkStatus:  avail=Attempting  config=Attempting  anyrelay=Waiting   (Attempt #1 to fetch config from https://api.steampowered.com/ISteamApps/GetSDRConfig/v1?appid=570&partner=valve)
+10/03 14:51:28 [Networking] Got ISteamNetworkingSockets user interfaces from standalone lib
+10/03 14:51:28 [Networking] Network System Initialized
+10/03 14:51:28 [SceneSystem] Thread pool has 7 threads, scene system using 8 partitions
+10/03 14:51:29 ConVarRef r_dota_shadows doesn't point to an existing ConVar
+10/03 14:51:29 ConVarRef r_dota_color_correction doesn't point to an existing ConVar
+10/03 14:51:29 ConVarRef r_dota_fxaa doesn't point to an existing ConVar
+10/03 14:51:29 ConVarRef r_dota_force_forward doesn't point to an existing ConVar
+10/03 14:51:29 ConVarRef r_dota_force_forward doesn't point to an existing ConVar
+10/03 14:51:29 Physics Console Communications is not initialized
+10/03 14:51:30 [SoundSystem] Sound Initialization: Finish, Sampling Rate: 44100
+10/03 14:51:30 PERF WARNING: 'resource/keybindings_english.txt' is in UTF-16 format, converting to UTF-8 will allow faster loading of it
+10/03 14:51:30 Affinity preferences: 8 logical processors, limiting to 8
+10/03 14:51:30    0 - proc  0 (grp 0:0  / phy 0 / cor 0 / smt 0): max freq 0
+10/03 14:51:30    1 - proc  1 (grp 0:1  / phy 0 / cor 1 / smt 0): max freq 0
+10/03 14:51:30    2 - proc  2 (grp 0:2  / phy 0 / cor 2 / smt 0): max freq 0
+10/03 14:51:30    3 - proc  3 (grp 0:3  / phy 0 / cor 3 / smt 0): max freq 0
+10/03 14:51:30    4 - proc  4 (grp 0:4  / phy 0 / cor 4 / smt 0): max freq 0
+10/03 14:51:30    5 - proc  5 (grp 0:5  / phy 0 / cor 5 / smt 0): max freq 0
+10/03 14:51:30    6 - proc  6 (grp 0:6  / phy 0 / cor 6 / smt 0): max freq 0
+10/03 14:51:30    7 - proc  7 (grp 0:7  / phy 0 / cor 7 / smt 0): max freq 0
+10/03 14:51:30 Affinity preferences: no logical processor speed variation
+10/03 14:51:30 Affinity preferences: disabled (8 physical procs, 8 logical)
+10/03 14:51:30     nopref-all 0: proc 0 (group 0:0)
+10/03 14:51:30   nopref-all slot 0 combined mask 0:0x1
+10/03 14:51:30     nopref-all 1: proc 1 (group 0:1)
+10/03 14:51:30   nopref-all slot 1 combined mask 0:0x2
+10/03 14:51:30     nopref-all 2: proc 2 (group 0:2)
+10/03 14:51:30   nopref-all slot 2 combined mask 0:0x4
+10/03 14:51:30     nopref-all 3: proc 3 (group 0:3)
+10/03 14:51:30   nopref-all slot 3 combined mask 0:0x8
+10/03 14:51:30     nopref-all 4: proc 4 (group 0:4)
+10/03 14:51:30   nopref-all slot 4 combined mask 0:0x10
+10/03 14:51:30     nopref-all 5: proc 5 (group 0:5)
+10/03 14:51:30   nopref-all slot 5 combined mask 0:0x20
+10/03 14:51:30     nopref-all 6: proc 6 (group 0:6)
+10/03 14:51:30   nopref-all slot 6 combined mask 0:0x40
+10/03 14:51:30     nopref-all 7: proc 7 (group 0:7)
+10/03 14:51:30   nopref-all slot 7 combined mask 0:0x80
+10/03 14:51:30 Affinity preferences: no preferences, skipping assignment
+10/03 14:51:31 ILocalize::AddFile() failed to load file "resource/dota_english.txt".
+10/03 14:51:31 [SceneFileCache] Loaded 70295 .vcds from 185 vcdlist files
+10/03 14:51:31 [Client] Event System loaded 96 events from file: vpk:C:/Steam/steamapps/common/dota 2 beta/game/core/pak01.vpk:resource/core.gameevents.
+10/03 14:51:31 [Client] Event System loaded 256 events from file: vpk:C:/Steam/steamapps/common/dota 2 beta/game/dota/pak01.vpk:resource/game.gameevents.
+10/03 14:51:31 [Client] Event System loaded 1 events from file: vpk:C:/Steam/steamapps/common/dota 2 beta/game/dota/pak01.vpk:./resource/port.gameevents.
+10/03 14:51:32 ReadSteamRemoteStorageFile( bufOut, "cfg/pending_replay_requests.lst" ) -> 0.001018 seconds
+10/03 14:51:32 ReadSteamRemoteStorageFile( bufOut, "cfg/dotakeys_personal.lst" ) -> 0.000398 seconds
+10/03 14:51:32 ReadSteamRemoteStorageFile( bufOut, "scripts/clientstorage.txt" ) -> 0.000249 seconds
+10/03 14:51:32 [Networking] CEntitySystem::BuildEntityNetworking (parallel build of client) took 99.275 msecs for 1123 out of 1147 classes
+10/03 14:51:34 ReadSteamRemoteStorageFile( bufOut, "cfg/dota_player_loadout_shuffle.txt" ) -> 0.000270 seconds
+10/03 14:51:34 Telling Steam it is safe to update the app
+10/03 14:51:34 [GCClient] Logged on to Steam, set GC connection state to NO_SESSION
+10/03 14:51:35 [Server] Event System loaded 96 events from file: vpk:C:/Steam/steamapps/common/dota 2 beta/game/core/pak01.vpk:resource/core.gameevents.
+10/03 14:51:35 [Server] Event System loaded 256 events from file: vpk:C:/Steam/steamapps/common/dota 2 beta/game/dota/pak01.vpk:resource/game.gameevents.
+10/03 14:51:35 [Server] Event System loaded 1 events from file: vpk:C:/Steam/steamapps/common/dota 2 beta/game/dota/pak01.vpk:./resource/port.gameevents.
+10/03 14:51:35 [Networking] CEntitySystem::BuildEntityNetworking (parallel build of server) took 91.735 msecs for 1122 out of 1144 classes
+10/03 14:51:37 Failed to load mutations file! scripts/battlepass/ti2018/mutations.txt
+10/03 14:51:37 [Vfx] No valid vcs file found for shader generic.vfx
+10/03 14:51:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1229): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_opaque.vmat!
+10/03 14:51:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1229): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_opaque.vmat!
+10/03 14:51:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1229): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_opaque.vmat!
+10/03 14:51:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1229): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_opaque.vmat!
+10/03 14:51:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1229): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_default.vmat!
+10/03 14:51:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1229): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_default.vmat!
+10/03 14:51:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1229): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_default.vmat!
+10/03 14:51:37 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1229): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_default.vmat!
+10/03 14:51:37 [ResourceSystem] Error loading resource file "soundevents/soundevents_test.vsndevts_c" (Error: ERROR_FILEOPEN)
+10/03 14:51:37 [SplitScreen] Loaded 'user.vcfg' from SteamRemoteStorage, 1360 bytes OK
+10/03 14:51:37 name[ 0 ] changing from 'unnamed' to 'NamČor'
+10/03 14:51:37 name[ 0 ] changing from 'NamČor' to 'NamČor'
+10/03 14:51:37 [SplitScreen] Loaded 'user_keys.vcfg' from SteamRemoteStorage, 449 bytes OK
+10/03 14:51:37 [HostStateManager] CHostStateMgr::QueueNewRequest( Idle (levelload), 1 )
+10/03 14:51:37 ChangeGameUIState: DOTA_GAME_UI_STATE_INVALID -> DOTA_GAME_UI_STATE_LOADING_SCREEN
+10/03 14:51:37 Source2Init OK
+10/03 14:51:37 [EngineServiceManager] SwitchToLoop levelload requested:  id [1] addons []
+10/03 14:51:37 [ResourceSystem] Error loading resource file "panorama/layout/worldui_text_subtitle.vxml_c" (Error: ERROR_FILEOPEN)
+10/03 14:51:37 ReadSteamRemoteStorageFile( bufOut, "cfg/viewedheropatches.cfg" ) -> 0.000347 seconds
+10/03 14:51:37 ReadSteamRemoteStorageFile( bufOut, "scripts/dota_acknowledged_violators.txt" ) -> 0.000207 seconds
+10/03 14:51:37 ReadSteamRemoteStorageFile( bufOut, "cfg/herobuilds.cfg" ) -> 0.000262 seconds
+10/03 14:51:38 ReadSteamRemoteStorageFile( bufOut, "scripts/lobby_settings.txt" ) -> 0.000320 seconds
+10/03 14:51:38 ILocalize::AddFile() failed to load file "resource/localization/broadcastfacts_english.txt".
+10/03 14:51:38 [HostStateManager] Idle (levelload)
+10/03 14:51:38 [SplitScreen] Writing configuration for slot 0
+10/03 14:51:38 [SplitScreen] Saved 'user_keys.vcfg' to SteamRemoteStorage, 449 bytes OK
+10/03 14:51:38 [SplitScreen] Saved user config file 'cfg/user_keys_24661567_slot0.vcfg'
+10/03 14:51:38 [SplitScreen] Saved offline user config file 'cfg/user_keys_0_slot0.vcfg'
+10/03 14:51:38 [SplitScreen] Saved 'user.vcfg' to SteamRemoteStorage, 1360 bytes OK
+10/03 14:51:38 [SplitScreen] Saved user config file 'cfg/user_24661567_slot0.vcfg'
+10/03 14:51:38 [SplitScreen] Saved offline user config file 'cfg/user_0_slot0.vcfg'
+10/03 14:51:38 [Steam] Running SteamAPI_RunCallbacks for first time
+10/03 14:51:38 [GCClient] Send msg 4006 (k_EMsgGCClientHello), 110 bytes
+10/03 14:51:38 [SteamNetSockets] Got SDR network config.  Loaded revision 282 OK
+10/03 14:51:38 [SteamNetSockets] Performing ping measurement
+10/03 14:51:38 [SteamNetSockets] RelayNetWorkStatus:  avail=Attempting  config=OK  anyrelay=Attempting   (Performing ping measurement)
+10/03 14:51:38 [SteamNetSockets] AuthStatus (steamid:76561197984927295):  OK  (OK)
+10/03 14:51:38 [Client] CL:  CLoopModeLevelLoad::MaybeSwitchToGameLoop switching to "game" loopmode with addons ()
+10/03 14:51:38 [EngineServiceManager] SwitchToLoop game requested:  id [1] addons []
+10/03 14:51:38 [Workshop] Requesting page 1 of items
+10/03 14:51:38 [Workshop] Requesting page 1 of items
+10/03 14:51:38 [Workshop] Requesting page 1 of items
+10/03 14:51:38 ReadSteamRemoteStorageFile( bufOut, "cfg/chat.cfg" ) -> 0.000434 seconds
+10/03 14:51:38 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 16087 (was 17727)
+10/03 14:51:38 Affinity preferences: no preferences, skipping assignment
+10/03 14:51:38 [Server] CNetworkGameServerBase::SetServerState (ss_dead -> ss_waitingforgamesessionmanifest)
+10/03 14:51:38 [Server] SV:  maxplayers set to 1
+10/03 14:51:39 Initializing script VM...
+10/03 14:51:39 ...done
+10/03 14:51:39 CSpeechScriptBridge initializing...
+10/03 14:51:39 [Server] SV:  Spawn Server: <empty>
+10/03 14:51:39 [Server] CNetworkGameServerBase::SetServerState (ss_waitingforgamesessionmanifest -> ss_loading)
+10/03 14:51:39 [GCClient] Recv msg 4009 (k_EMsgGCClientConnectionStatus), 12 bytes
+10/03 14:51:39 [GCClient] In logon queue; waiting for GC to confirm connection.
+10/03 14:51:39 [GCClient] Trying to send message type 7387 (k_EMsgDOTAGetEventPoints) before GC connection established.  This is guaranteed to fail.
+10/03 14:51:39 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 13075 (was 18545)
+10/03 14:51:39 [Server] CNetworkGameServerBase::SetServerState (ss_loading -> ss_active)
+10/03 14:51:39 [GCClient] Trying to send message type 7427 (k_EMsgGCNotificationsRequest) before GC connection established.  This is guaranteed to fail.
+10/03 14:51:39 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 4978 (was 13178)
+10/03 14:51:39 [Client] CL:  CWaitForGameServerStartupPrerequisite done waiting for server
+10/03 14:51:39 [Client] CL:  CCreateGameClientJob creating client connection to 'loopback'
+10/03 14:51:39 [SteamNetSockets] [#1377946332 pipe] connected
+10/03 14:51:39 [SteamNetSockets] [#2514514943 pipe] connected
+10/03 14:51:39 [SteamNetSockets] Waited 3.0ms for SteamNetworkingSockets lock [ServiceThread]
+10/03 14:51:39 [SteamNetSockets] SteamNetworkingSockets lock held for 5.2ms.  (Performance warning).  CreateSocketPair,BRecvCryptoHandshake(x2)
+10/03 14:51:39 [Networking] Created poll group for socket 'client'
+10/03 14:51:39 [Networking] Created poll group for socket 'server'
+10/03 14:51:39 [Networking] Connected loopback client=5221cadc@loopback:1 <-> server=95e073ff@loopback:0
+10/03 14:51:39 [ResourceSystem] Error loading resource file "panorama/images/spellicons/dota_base_ability_png.vtex_c" (Error: ERROR_FILEOPEN)
+10/03 14:51:39 [NetSteamConn] Associating NetChan      NamČor            loopback:0[1] (loopback:0) with Steam Net Connection handle #2514514943 (userdata 0)
+10/03 14:51:39 [NetSteamConn] Associating NetChan       client            loopback:1[0] (loopback:1) with Steam Net Connection handle #1377946332 (userdata 1)
+10/03 14:51:39 [Client] CL:  Connected to 'loopback:1'
+10/03 14:51:39 [GCClient] Recv msg 7388 (k_EMsgDOTAGetEventPointsResponse), 29 bytes
+10/03 14:51:39 [GCClient] Recv msg 7388 (k_EMsgDOTAGetEventPointsResponse), 27 bytes
+10/03 14:51:39 [Server] SV:  Sending server info to client 'NamČor' at loopback:0
+10/03 14:51:39 [Server] SV:  WriteInitialSpawnGroups sending 1 groups
+10/03 14:51:39 [Client] Game: "Dota 2"
+10/03 14:51:39 [Client] Map: "<empty>"
+10/03 14:51:39 [Client] Players: 1 (0 bots) / 1 humans
+10/03 14:51:39 [Client] Build: 8715 (revision 6121912)
+10/03 14:51:39 [Client] Server Number: 1
+10/03 14:51:39 [SignonState] CL:  CNetworkGameClient::ProcessServerInfo
+10/03 14:51:39 WARNING: unable to link r_camerapos and r_camerapos because both ConCommands are not marked FCVAR_LINKED_CONCOMMAND
+10/03 14:51:39 WARNING: unable to link r_incrementlodscale and r_incrementlodscale because both ConCommands are not marked FCVAR_LINKED_CONCOMMAND
+10/03 14:51:39 WARNING: unable to link r_setpos and r_setpos because both ConCommands are not marked FCVAR_LINKED_CONCOMMAND
+10/03 14:51:39 WARNING: unable to link r_entpos and r_entpos because both ConCommands are not marked FCVAR_LINKED_CONCOMMAND
+10/03 14:51:39 WARNING: unable to link r_cubemap_takesnapshot and r_cubemap_takesnapshot because both ConCommands are not marked FCVAR_LINKED_CONCOMMAND
+10/03 14:51:39 ReadSteamRemoteStorageFile( bufOut, "voice_ban.dt" ) -> 0.000594 seconds
+10/03 14:51:40 [RESPONSE_RULES] scripts\talker\response_rules_antimage.txt(token 72) : Multiple definitions for criteria 'isweiloadoutspawn' [627352332]
+10/03 14:51:40 [RESPONSE_RULES] CResponseSystem:  scripts\talker\response_rules.txt (24776 rules, 2539 criteria, and 24776 responses)
+10/03 14:51:40 [GCClient] Recv msg 4004 (k_EMsgGCClientWelcome), 513 bytes
+10/03 14:51:40 [GCClient] Received client welcome from GC.
+10/03 14:51:40 [SOCache] CMsgClientWelcome subscribed: 1 up-to-date, 0 out-of-date
+10/03 14:51:40 [GCClient] Recv msg 29 (k_ESOMsg_CacheSubscribedUpToDate), 44 bytes
+10/03 14:51:40 [GCClient] Recv msg 8678 (k_EMsgGCToClientGuildMembershipUpdated), 10 bytes
+10/03 14:51:40 [GCClient] Send msg 7197 (k_EMsgGCMatchmakingStatsRequest), 8 bytes
+10/03 14:51:41 [GCClient] Recv msg 7198 (k_EMsgGCMatchmakingStatsResponse), 326 bytes
+10/03 14:51:43 [SteamNetSockets] Ping measurement completed
+10/03 14:51:43 [SteamNetSockets] Ping location: vie=20+2,waw=47+4/31+2,fra=32+3/32+2,lux=35+3/36+2,ams=37+3/38+2,par=39+3,lhr=45+4/42+3,sto=51+5/51+2,sto2=53+5/53+2,iad=117+11/115+3,sgp=185+18/186+18,gru=242+24/259+3
+10/03 14:51:43 [SteamNetSockets] RelayNetWorkStatus:  avail=OK  config=OK  anyrelay=OK   (OK)
+10/03 14:51:47 [Client] CL:  CGameClientConnectPrerequisite connection succeeded
+10/03 14:51:47 ChangeGameUIState: DOTA_GAME_UI_STATE_LOADING_SCREEN -> DOTA_GAME_UI_STATE_DASHBOARD
+10/03 14:51:47 [Server] SV:  IGameSystem::LoopActivateAllSystems {
+10/03 14:51:47 [Host] HO:  IGameSystem::LoopActivateAllSystems {
+10/03 14:51:47 [Host] HO:  } IGameSystem::LoopActivateAllSystems done
+10/03 14:51:47 [Server] SV:  } IGameSystem::LoopActivateAllSystems done
+10/03 14:51:47 [Server] SV:  Game started
+10/03 14:51:47 [Client] CL:  IGameSystem::LoopActivateAllSystems {
+10/03 14:51:47 ReadSteamRemoteStorageFile( bufOut, "scripts/control_groups.txt" ) -> 0.000231 seconds
+10/03 14:51:47 [Client] CL:  } IGameSystem::LoopActivateAllSystems done
+10/03 14:51:47 [SignonState] CL:  CNetworkGameClient::OnSwitchLoopModeFinished( game : success )
+10/03 14:51:47 GC reported matchgroups version 107
+10/03 14:51:47 [WeekendTourney] Received weekend tourney schedule.
+10/03 14:51:47 [GCClient] Send msg 2536 (k_EMsgGCRequestStoreSalesData), 12 bytes
+10/03 14:51:47 [Server] SV:  Sending full update to client NamČor (reason:  initial update)
+10/03 14:51:47 [Client] CL:  Receiving uncompressed update from server
+10/03 14:51:47 [Networking]       client            loopback:1[0]:  NetChan Setting Timeout to 30.00 seconds
+10/03 14:51:47 [Client] CL:  Signon traffic "client":  incoming 52.947 KB [230 pkts], outgoing 1.580 KB [227 pkts]
+10/03 14:51:47 ConVarRef dota_camera_toggle_select_to_follow doesn't point to an existing ConVar
+10/03 14:51:47 Failed to load inventory scratchpad information file "cfg/dota_player_scratchpad.txt"!
+10/03 14:51:47 [Networking]      NamČor            loopback:0[1]:  NetChan Setting Timeout to 20.00 seconds
+10/03 14:51:47 [GCClient] Send msg 8137 (k_EMsgClientToGCMyTeamInfoRequest), 17 bytes
+10/03 14:51:47 [GCClient] Send msg 8078 (k_EMsgClientToGCGetQuestProgress), 17 bytes
+10/03 14:51:47 [WeekendTourney] Auto selecting weekend tourney division 'europe' based on ping to best region of 20ms
+10/03 14:51:47 [WeekendTourney] Selected division changed to 'europe'
+10/03 14:51:47 [GCClient] Send msg 8211 (k_EMsgDOTAGetPeriodicResource), 30 bytes
+10/03 14:51:47 [GCClient] Send msg 7503 (k_EMsgClientToGCEmoticonDataRequest), 17 bytes
+10/03 14:51:48 [GCClient] Recv msg 8136 (k_EMsgGCToClientTeamsInfo), 290 bytes
+10/03 14:51:48 [GCClient] Recv msg 7504 (k_EMsgGCToClientEmoticonData), 24 bytes
+10/03 14:51:48 [GCClient] Recv msg 8079 (k_EMsgClientToGCGetQuestProgressResponse), 19 bytes
+10/03 14:51:48 [GCClient] Recv msg 8212 (k_EMsgDOTAGetPeriodicResourceResponse), 22 bytes
+10/03 14:51:48 [GCClient] Recv msg 2538 (k_EMsgGCRequestStoreSalesDataUpToDateResponse), 16 bytes
+10/03 14:51:48 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 245 (was 265)
+10/03 14:51:48 [GCClient] Send msg 7534 (k_EMsgClientToGCGetProfileCard), 22 bytes
+10/03 14:51:49 [GCClient] Send msg 7427 (k_EMsgGCNotificationsRequest), 17 bytes
+10/03 14:51:49 [GCClient] Recv msg 7428 (k_EMsgGCNotificationsResponse), 19 bytes
+10/03 14:51:49 [ResourceSystem] Error loading resource file "maps/backgrounds/dashboard_parallax_ti10/world.vrman_c" (Error: ERROR_FILEOPEN)
+10/03 14:51:49 [Entity System] ExecuteQueuedCreation() took 1795us [ Spawned: 2, Activated 2, PostDataUpdate: 0, Destroyed: 0, Deallocated: 0, PvsUpdate: 0 ]
+10/03 14:51:49 [ResourceSystem] WARNING: RESOURCE_TYPE_WORLD resource 'maps/backgrounds/dashboard_parallax_ti10/world.vwrld' (8C2E657F543B122F) requested but is not in the system. (Missing from from a manifest?)
+10/03 14:51:49 [WorldRenderer] Warning: Error resource loaded for level maps/backgrounds/dashboard_parallax_ti10/world.vwrld
+10/03 14:51:50 [GCClient] Recv msg 7535 (k_EMsgClientToGCGetProfileCardResponse), 90 bytes
+10/03 14:51:53 [GCClient] Send msg 8673 (k_EMsgClientToGCRequestGuildData), 19 bytes
+10/03 14:51:54 [GCClient] Recv msg 8674 (k_EMsgClientToGCRequestGuildDataResponse), 19 bytes
+10/03 14:51:56 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 2687 (was 2697)
+10/03 14:51:56 [ResourceSystem] Error loading resource file "panorama/images/items/dota_base_ability_png.vtex_c" (Error: ERROR_FILEOPEN)
+10/03 14:51:56 [GCClient] Send msg 8303 (k_EMsgClientToGCRequestSocialFeed), 24 bytes
+10/03 14:51:56 [GCClient] Send msg 2609 (k_EMsgClientToGCGetLimitedItemPurchaseQuantity), 21 bytes
+10/03 14:51:56 ProtoBufHelper::ParseJSON: Ignoring extra JSON key 'success', which is not found in protobuf message 'CMsgDOTAWeekendTourneyParticipationDetails'!
+10/03 14:51:56 [Entity System] ExecuteQueuedCreation() took 2816us [ Spawned: 4, Activated 4, PostDataUpdate: 0, Destroyed: 0, Deallocated: 0, PvsUpdate: 0 ]
+10/03 14:51:56 [Entity System] ExecuteQueuedCreation() took 1830us [ Spawned: 4, Activated 4, PostDataUpdate: 0, Destroyed: 0, Deallocated: 0, PvsUpdate: 0 ]
+10/03 14:51:56 [GCClient] Send msg 8729 (k_EMsgClientToGCRequestAccountGuildPersonaInfoBatch), 287 bytes
+10/03 14:51:56 [GCClient] Recv msg 8304 (k_EMsgClientToGCRequestSocialFeedResponse), 864 bytes
+10/03 14:51:56 [GCClient] Recv msg 2610 (k_EMsgClientToGCGetLimitedItemPurchaseQuantityResponse), 21 bytes
+10/03 14:51:56 [Vfx] No valid vcs file found for shader black.vfx
+10/03 14:51:56 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1229): Error creating shader black.vfx for material materials/dev/black_cheap.vmat!
+10/03 14:51:56 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1229): Error creating shader black.vfx for material materials/dev/black_cheap.vmat!
+10/03 14:51:56 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1229): Error creating shader black.vfx for material materials/dev/black_cheap.vmat!
+10/03 14:51:56 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1229): Error creating shader black.vfx for material materials/dev/black_cheap.vmat!
+10/03 14:51:56 [GCClient] Recv msg 8730 (k_EMsgClientToGCRequestAccountGuildPersonaInfoBatchResponse), 370 bytes
+10/03 14:51:57 [GCClient] Send msg 8729 (k_EMsgClientToGCRequestAccountGuildPersonaInfoBatch), 27 bytes
+10/03 14:51:57 WatchMode: 0
+10/03 14:51:57 [GCClient] Send msg 8009 (k_EMsgClientToGCFindTopSourceTVGames), 25 bytes
+10/03 14:51:57 [GCClient] Recv msg 8730 (k_EMsgClientToGCRequestAccountGuildPersonaInfoBatchResponse), 19 bytes
+10/03 14:51:57 [GCClient] Recv msg 8010 (k_EMsgGCToClientFindTopSourceTVGamesResponse), 216 bytes
+10/03 14:51:57 [GCClient] Send msg 7534 (k_EMsgClientToGCGetProfileCard), 22 bytes
+10/03 14:51:58 [GCClient] Recv msg 7535 (k_EMsgClientToGCGetProfileCardResponse), 98 bytes
+10/03 14:51:58 [GCClient] Recv msg 8010 (k_EMsgGCToClientFindTopSourceTVGamesResponse), 2130 bytes
+10/03 14:51:58 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 526 (was 1266)
+10/03 14:51:58 [GCClient] Send msg 7534 (k_EMsgClientToGCGetProfileCard), 22 bytes
+10/03 14:51:58 [GCClient] Send msg 7534 (k_EMsgClientToGCGetProfileCard), 22 bytes
+10/03 14:51:58 [GCClient] Send msg 7534 (k_EMsgClientToGCGetProfileCard), 23 bytes
+10/03 14:51:58 [GCClient] Send msg 7534 (k_EMsgClientToGCGetProfileCard), 22 bytes
+10/03 14:51:58 [GCClient] Send msg 7534 (k_EMsgClientToGCGetProfileCard), 22 bytes
+10/03 14:51:58 [GCClient] Send msg 7534 (k_EMsgClientToGCGetProfileCard), 22 bytes
+10/03 14:51:58 [GCClient] Send msg 7534 (k_EMsgClientToGCGetProfileCard), 22 bytes
+10/03 14:51:58 [GCClient] Send msg 7534 (k_EMsgClientToGCGetProfileCard), 22 bytes
+10/03 14:51:58 [GCClient] Send msg 7534 (k_EMsgClientToGCGetProfileCard), 22 bytes
+10/03 14:51:58 [GCClient] Send msg 7534 (k_EMsgClientToGCGetProfileCard), 22 bytes
+10/03 14:51:58 [GCClient] Send msg 7534 (k_EMsgClientToGCGetProfileCard), 22 bytes
+10/03 14:51:58 [GCClient] Send msg 7534 (k_EMsgClientToGCGetProfileCard), 22 bytes
+10/03 14:51:59 [GCClient] Recv msg 7535 (k_EMsgClientToGCGetProfileCardResponse), 224 bytes
+10/03 14:51:59 [GCClient] Recv msg 7535 (k_EMsgClientToGCGetProfileCardResponse), 268 bytes
+10/03 14:51:59 [GCClient] Recv msg 7535 (k_EMsgClientToGCGetProfileCardResponse), 555 bytes
+10/03 14:51:59 [GCClient] Recv msg 7535 (k_EMsgClientToGCGetProfileCardResponse), 45 bytes
+10/03 14:51:59 [GCClient] Recv msg 7535 (k_EMsgClientToGCGetProfileCardResponse), 182 bytes
+10/03 14:51:59 [GCClient] Recv msg 7535 (k_EMsgClientToGCGetProfileCardResponse), 297 bytes
+10/03 14:51:59 [GCClient] Recv msg 7535 (k_EMsgClientToGCGetProfileCardResponse), 65 bytes
+10/03 14:51:59 [GCClient] Recv msg 7535 (k_EMsgClientToGCGetProfileCardResponse), 61 bytes
+10/03 14:51:59 [GCClient] Send msg 8729 (k_EMsgClientToGCRequestAccountGuildPersonaInfoBatch), 68 bytes
+10/03 14:51:59 [GCClient] Recv msg 7535 (k_EMsgClientToGCGetProfileCardResponse), 275 bytes
+10/03 14:51:59 [GCClient] Recv msg 7535 (k_EMsgClientToGCGetProfileCardResponse), 221 bytes
+10/03 14:51:59 [GCClient] Recv msg 7535 (k_EMsgClientToGCGetProfileCardResponse), 52 bytes
+10/03 14:51:59 [GCClient] Recv msg 7535 (k_EMsgClientToGCGetProfileCardResponse), 192 bytes
+10/03 14:51:59 [GCClient] Send msg 7095 (k_EMsgGCMatchDetailsRequest), 23 bytes
+10/03 14:51:59 [GCClient] Recv msg 8730 (k_EMsgClientToGCRequestAccountGuildPersonaInfoBatchResponse), 19 bytes
+10/03 14:51:59 [GCClient] Send msg 8727 (k_EMsgClientToGCRequestAccountGuildPersonaInfo), 22 bytes
+10/03 14:52:00 [GCClient] Recv msg 8728 (k_EMsgClientToGCRequestAccountGuildPersonaInfoResponse), 36 bytes
+10/03 14:52:01 [GCClient] Send msg 7095 (k_EMsgGCMatchDetailsRequest), 23 bytes
+10/03 14:52:01 [GCClient] Recv msg 7096 (k_EMsgGCMatchDetailsResponse), 2707 bytes
+10/03 14:52:01 [GCClient] Send msg 7206 (k_EMsgGCWatchDownloadedReplay), 16 bytes
+10/03 14:52:01 [Demo] Requesting playback of replays/5631699935.dem
+10/03 14:52:01 [HostStateManager] CHostStateMgr::QueueNewRequest( Playing Demo (replays/5631699935.dem), 2 )
+10/03 14:52:01 [EngineServiceManager] SwitchToLoop levelload requested:  id [2] addons []
+10/03 14:52:01 [Client] CL:  IGameSystem::LoopDeactivateAllSystems {
+10/03 14:52:01 WriteSteamRemoteStorageFileAsync( "scripts/control_groups.txt" ) -> at 35.147
+10/03 14:52:01 [Client] CL:  } IGameSystem::LoopDeactivateAllSystems done
+10/03 14:52:01 [Client] CL:  Disconnecting from server: NETWORK_DISCONNECT_LOOPDEACTIVATE
+10/03 14:52:01 [NetSteamConn] Closing Steam Net Connection on socket 'client' to loopback:1, handle #1377946332 (2055 NETWORK_DISCONNECT_LOOPDEACTIVATE)
+10/03 14:52:01 [NetSteamConn] CloseSteamNetConnection handle #1377946332 (userdata 1)
+10/03 14:52:01 [NetSteamConn] Disassociating NetChan       client                      [-1] (unknown) from Steam Net Connection handle #1377946332 (userdata 1)
+10/03 14:52:01 [SteamNetSockets] [#2514514943 pipe] closed by peer
+10/03 14:52:01 [NetSteamConn] Removing Steam Net Connection for loopback:1, handle #1377946332
+10/03 14:52:01 [Networking] Closing 'client' poll group
+10/03 14:52:01 [stringtables] CL:  CNetworkStringTableContainer::RemoveAllTables:  removing 20 tables
+10/03 14:52:01 [Server] SV:  IGameSystem::LoopDeactivateAllSystems {
+10/03 14:52:01 [Host] HO:  IGameSystem::LoopDeactivateAllSystems {
+10/03 14:52:01 [Host] HO:  } IGameSystem::LoopDeactivateAllSystems done
+10/03 14:52:01 [Server] SV:  } IGameSystem::LoopDeactivateAllSystems done
+10/03 14:52:01 [Server] SV:  Server shutting down: NETWORK_DISCONNECT_LOOPDEACTIVATE (55)
+10/03 14:52:01 [Server] CNetworkGameServerBase::SetServerState (ss_active -> ss_dead)
+10/03 14:52:01 [Server] SV:  Disconnect client 'NamČor' from server(1): NETWORK_DISCONNECT_SHUTDOWN
+10/03 14:52:01 [SignonState] Client 1 'NamČor' signon state SIGNONSTATE_FULL -> SIGNONSTATE_NONE
+10/03 14:52:01 [NetSteamConn] Closing Steam Net Connection on socket 'server' to loopback:0, handle #2514514943 (1001 NETWORK_DISCONNECT_SHUTDOWN)
+10/03 14:52:01 [NetSteamConn] CloseSteamNetConnection handle #2514514943 (userdata 0)
+10/03 14:52:01 [NetSteamConn] Disassociating NetChan      NamČor                      [-1] (unknown) from Steam Net Connection handle #2514514943 (userdata 0)
+10/03 14:52:01 [NetSteamConn] Removing Steam Net Connection for loopback:0, handle #2514514943
+10/03 14:52:01 [Networking] Closing 'server' poll group
+10/03 14:52:01 [stringtables] SV:  CNetworkStringTableContainer::RemoveAllTables:  removing 20 tables
+10/03 14:52:01 WriteSteamRemoteStorageFileAsync( "voice_ban.dt" ) -> at 35.264
+10/03 14:52:01 ChangeGameUIState: DOTA_GAME_UI_STATE_DASHBOARD -> DOTA_GAME_UI_STATE_LOADING_SCREEN
+10/03 14:52:01 [Client] LoadingDisplay changed from NONE to LOADING (map="")
+10/03 14:52:01 CAsyncWriteInProgress::OnComplete( "scripts/control_groups.txt" ) -> Success at 35.329
+10/03 14:52:01 CAsyncWriteInProgress::OnComplete( "voice_ban.dt" ) -> Success at 35.329
+10/03 14:52:01 [NetSteamConn] Steam Net connection #2514514943 pipe closed by peer, reason 2055: NETWORK_DISCONNECT_LOOPDEACTIVATE
+10/03 14:52:01 [NetSteamConn] CloseSteamNetConnection handle #2514514943 (userdata -1)
+10/03 14:52:01 [Client] CL:  CLoopModeLevelLoad::MaybeSwitchToGameLoop switching to "game" loopmode with addons ()
+10/03 14:52:01 [EngineServiceManager] SwitchToLoop game requested:  id [2] addons []
+10/03 14:52:01 [Client] CL:  CCreateGameClientJob creating client connection to 'replays/5631699935.dem'
+10/03 14:52:02 [Demo] Playing demo from replays/5631699935.dem.
+10/03 14:52:02 [Networking]         DEMO               unknown[0]:  NetChan Setting Timeout to -1.00 seconds
+10/03 14:52:02 [SignonState] CL:  CNetworkGameClient::ProcessServerInfo
+10/03 14:52:02 C:Gamerules: entering state 'DOTA_GAMERULES_STATE_INIT'
+10/03 14:52:02 [Client] CDOTA_Hud_Main::EventGameRulesStateChanged DOTA_GAMERULES_STATE_INIT
+10/03 14:52:02 [Client] CDOTA_Hud_Main::DeleteGameEndScreen deleted GameEndContainer
+10/03 14:52:02 [Client] CL:  CGameRulesGameSystem::GameInit installed game rules
+10/03 14:52:02 ReadSteamRemoteStorageFile( bufOut, "voice_ban.dt" ) -> 0.000188 seconds
+10/03 14:52:02 Loading Game State Integration: gamestate_integration_test.cfg
+10/03 14:52:02 [GCClient] Recv msg 7096 (k_EMsgGCMatchDetailsResponse), 2707 bytes
+10/03 14:52:02 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 456 (was 5176)
+10/03 14:52:03 [Client] Unable to load grid nav: file not found for world prefabs/promotional_dire_fountain
+10/03 14:52:10 [WorldRenderer] Long grass load frame: 10.005003 ms for 1027 grass tiles
+10/03 14:52:10 [WorldRenderer] CWorldRendererMgr::ServiceWorldRequests long frame: 10.043906ms
+10/03 14:52:10 [Client] Unable to load grid nav: file not found for world prefabs/promotional_radiant_fountain
+10/03 14:52:14 [Client] CL:  CGameClientConnectPrerequisite connection succeeded
+10/03 14:52:14 ChangeGameUIState: DOTA_GAME_UI_STATE_LOADING_SCREEN -> DOTA_GAME_UI_DOTA_INGAME
+10/03 14:52:14 [Client] CL:  IGameSystem::LoopActivateAllSystems {
+10/03 14:52:14 [Host] HO:  IGameSystem::LoopActivateAllSystems {
+10/03 14:52:14 [Host] HO:  } IGameSystem::LoopActivateAllSystems done
+10/03 14:52:14 ReadSteamRemoteStorageFile( bufOut, "scripts/control_groups.txt" ) -> 0.000168 seconds
+10/03 14:52:14 [Client] CL:  } IGameSystem::LoopActivateAllSystems done
+10/03 14:52:14 [HostStateManager] Playing Demo (replays/5631699935.dem)
+10/03 14:52:14 [SignonState] CL:  CNetworkGameClient::OnSwitchLoopModeFinished( game : success )
+10/03 14:52:14 [Demo] Requesting playback of replays/5631699935.dem
+10/03 14:52:14 [HostStateManager] CHostStateMgr::QueueNewRequest( Playing Demo (replays/5631699935.dem), 3 )
+10/03 14:52:14 [Client] CL:  Receiving uncompressed update from server
+10/03 14:52:14 Height map file (maps/start.vhcg) not found, this will make ground height traces more expensive! Recompile the map to generate a height map.
+10/03 14:52:14 [Entity System] ExecuteQueuedCreation() took 209429us [ Spawned: 80, Activated 0, PostDataUpdate: 80, Destroyed: 0, Deallocated: 0, PvsUpdate: 0 ]
+10/03 14:52:14 [Networking]         DEMO               unknown[0]:  NetChan Setting Timeout to 30.00 seconds
+10/03 14:52:14 [Client] CL:  Signon traffic "DEMO":  incoming 0 bytes [12 pkts], outgoing 0 bytes [0 pkts]
+10/03 14:52:14 Started download of cloud file 0E01CAADE5DE94A6
+10/03 14:52:14 Started download of cloud file 0E01CAADE5DE9607
+10/03 14:52:14 Started download of cloud file 0DDDCC1FFAFD1B8E
+10/03 14:52:14 Started download of cloud file 0DDDCC1FFAFD1CA6
+10/03 14:52:14 C:Gamerules: entering state 'DOTA_GAMERULES_STATE_HERO_SELECTION'
+10/03 14:52:14 [Client] LoadingDisplay changed from LOADING to NONE (map="start")
+10/03 14:52:14 [Client] CDOTA_Hud_Main::EventGameRulesStateChanged DOTA_GAMERULES_STATE_HERO_SELECTION
+10/03 14:52:14 [Client] PregameHud - bIsPreloading is now 1
+10/03 14:52:14 [Client] PregameHud - SetPreGameVisible 1
+10/03 14:52:14 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 3453 (was 13773)
+10/03 14:52:14 [EngineServiceManager] SwitchToLoop levelload requested:  id [3] addons []
+10/03 14:52:14 [Client] PregameHud - bIsPreloading is now 0
+10/03 14:52:14 [Client] PregameHud - eGameState is now DOTA_GAMERULES_STATE_HERO_SELECTION
+10/03 14:52:14 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 481 (was 7571)
+10/03 14:52:14 Slow image load - http://cdn.dota2.com/apps/dota2/images/leagues/12397/images/image_8.png (dimensions 512x200, took 28 msec)
+10/03 14:52:15 [ResourceSystem] Error loading resource file "panorama/images/iso_countryflags/emptybox_png.vtex_c" (Error: ERROR_FILEOPEN)
+10/03 14:52:15 [SpawnGroup] CL:  [2: dota | main lump | mapload]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:15 [SpawnGroup] CL:  [3: prefabs/promotional_radiant_fountain | main lump | mapload]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:15 [SpawnGroup] CL:  [4: prefabs/promotional_dire_fountain | main lump | mapload]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:15 [GCClient] Send msg 8729 (k_EMsgClientToGCRequestAccountGuildPersonaInfoBatch), 119 bytes
+10/03 14:52:15 [Client] CL:  IGameSystem::LoopDeactivateAllSystems {
+10/03 14:52:15 WriteSteamRemoteStorageFileAsync( "scripts/control_groups.txt" ) -> at 48.898
+10/03 14:52:15 [Host] HO:  IGameSystem::LoopDeactivateAllSystems {
+10/03 14:52:15 [Host] HO:  } IGameSystem::LoopDeactivateAllSystems done
+10/03 14:52:15 [Client] CL:  } IGameSystem::LoopDeactivateAllSystems done
+10/03 14:52:15 [Client] CL:  Disconnecting from server: NETWORK_DISCONNECT_LOOPDEACTIVATE
+10/03 14:52:15 [Demo] Demo playback finished ( 49.0 seconds, 15 render frames, 0.31 fps).
+10/03 14:52:15 [stringtables] CL:  CNetworkStringTableContainer::RemoveAllTables:  removing 20 tables
+10/03 14:52:15 CDOTA_UI_UGCImageDownloader::RemoveUGCRequest request for handle (1009310639742423917) to be removed which did not exist
+10/03 14:52:15 CDOTA_UI_UGCImageDownloader::RemoveUGCRequest request for handle (1009310639742423917) to be removed which did not exist
+10/03 14:52:15 ILocalize::AddFile() failed to load file "resource/localization/broadcastfacts_english.txt".
+10/03 14:52:15 [Client] CL:  CGameRulesGameSystem::GameShutdown uninstalled game rules
+10/03 14:52:15 [Client] CL:  CGameRules::CGameRules destructed
+10/03 14:52:15 WriteSteamRemoteStorageFileAsync( "voice_ban.dt" ) -> at 49.347
+10/03 14:52:15 ChangeGameUIState: DOTA_GAME_UI_DOTA_INGAME -> DOTA_GAME_UI_STATE_LOADING_SCREEN
+10/03 14:52:15 [Client] LoadingDisplay changed from NONE to LOADING (map="")
+10/03 14:52:15 CAsyncWriteInProgress::OnComplete( "scripts/control_groups.txt" ) -> Success at 49.364
+10/03 14:52:15 [GCClient] Recv msg 8730 (k_EMsgClientToGCRequestAccountGuildPersonaInfoBatchResponse), 235 bytes
+10/03 14:52:15 CAsyncWriteInProgress::OnComplete( "voice_ban.dt" ) -> Success at 49.365
+10/03 14:52:15 [Client] CL:  CLoopModeLevelLoad::MaybeSwitchToGameLoop switching to "game" loopmode with addons ()
+10/03 14:52:15 [EngineServiceManager] SwitchToLoop game requested:  id [3] addons []
+10/03 14:52:15 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 23850 (was 23860)
+10/03 14:52:15 [ResourceSystem] Error loading resource file "panorama/images/spellicons/dota_base_ability_png.vtex_c" (Error: ERROR_FILEOPEN)
+10/03 14:52:15 [Client] CL:  CCreateGameClientJob creating client connection to 'replays/5631699935.dem'
+10/03 14:52:15 [Demo] Playing demo from replays/5631699935.dem.
+10/03 14:52:15 [Networking]         DEMO               unknown[0]:  NetChan Setting Timeout to -1.00 seconds
+10/03 14:52:16 [SignonState] CL:  CNetworkGameClient::ProcessServerInfo
+10/03 14:52:16 C:Gamerules: entering state 'DOTA_GAMERULES_STATE_INIT'
+10/03 14:52:16 [Client] CDOTA_Hud_Main::EventGameRulesStateChanged DOTA_GAMERULES_STATE_INIT
+10/03 14:52:16 [Client] CDOTA_Hud_Main::DeleteGameEndScreen deleted GameEndContainer
+10/03 14:52:16 [Client] CL:  CGameRulesGameSystem::GameInit installed game rules
+10/03 14:52:16 ReadSteamRemoteStorageFile( bufOut, "voice_ban.dt" ) -> 0.000167 seconds
+10/03 14:52:16 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 26213 (was 27823)
+10/03 14:52:18 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 17944 (was 26294)
+10/03 14:52:18 [Client] Unable to load grid nav: file not found for world prefabs/promotional_radiant_fountain
+10/03 14:52:18 [Client] Unable to load grid nav: file not found for world prefabs/promotional_dire_fountain
+10/03 14:52:18 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 12978 (was 18108)
+10/03 14:52:18 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 6660 (was 13090)
+10/03 14:52:18 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 1604 (was 6774)
+10/03 14:52:22 [Client] CL:  CGameClientConnectPrerequisite connection succeeded
+10/03 14:52:22 ChangeGameUIState: DOTA_GAME_UI_STATE_LOADING_SCREEN -> DOTA_GAME_UI_DOTA_INGAME
+10/03 14:52:22 [Client] CL:  IGameSystem::LoopActivateAllSystems {
+10/03 14:52:22 [Host] HO:  IGameSystem::LoopActivateAllSystems {
+10/03 14:52:22 [Host] HO:  } IGameSystem::LoopActivateAllSystems done
+10/03 14:52:22 ReadSteamRemoteStorageFile( bufOut, "scripts/control_groups.txt" ) -> 0.000165 seconds
+10/03 14:52:22 [Client] CL:  } IGameSystem::LoopActivateAllSystems done
+10/03 14:52:22 [HostStateManager] Playing Demo (replays/5631699935.dem)
+10/03 14:52:22 [SignonState] CL:  CNetworkGameClient::OnSwitchLoopModeFinished( game : success )
+10/03 14:52:22 [Client] CL:  Receiving uncompressed update from server
+10/03 14:52:22 Height map file (maps/start.vhcg) not found, this will make ground height traces more expensive! Recompile the map to generate a height map.
+10/03 14:52:22 [Entity System] ExecuteQueuedCreation() took 167698us [ Spawned: 80, Activated 0, PostDataUpdate: 80, Destroyed: 0, Deallocated: 0, PvsUpdate: 0 ]
+10/03 14:52:22 [Networking]         DEMO               unknown[0]:  NetChan Setting Timeout to 30.00 seconds
+10/03 14:52:22 [Client] CL:  Signon traffic "DEMO":  incoming 0 bytes [12 pkts], outgoing 0 bytes [0 pkts]
+10/03 14:52:22 C:Gamerules: entering state 'DOTA_GAMERULES_STATE_HERO_SELECTION'
+10/03 14:52:22 [Client] LoadingDisplay changed from LOADING to NONE (map="start")
+10/03 14:52:22 [Client] CDOTA_Hud_Main::EventGameRulesStateChanged DOTA_GAMERULES_STATE_HERO_SELECTION
+10/03 14:52:22 [Client] PregameHud - bIsPreloading is now 1
+10/03 14:52:22 [Client] PregameHud - SetPreGameVisible 1
+10/03 14:52:22 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 3404 (was 13624)
+10/03 14:52:22 [Client] PregameHud - bIsPreloading is now 0
+10/03 14:52:22 [Client] PregameHud - eGameState is now DOTA_GAMERULES_STATE_HERO_SELECTION
+10/03 14:52:22 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 490 (was 7510)
+10/03 14:52:22 [ResourceSystem] Error loading resource file "panorama/images/iso_countryflags/emptybox_png.vtex_c" (Error: ERROR_FILEOPEN)
+10/03 14:52:23 [SpawnGroup] CL:  [2: dota | main lump | mapload]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:23 [WorldRenderer] Long grass load frame: 10.001066 ms for 1163 grass tiles
+10/03 14:52:23 [WorldRenderer] CWorldRendererMgr::ServiceWorldRequests long frame: 10.032846ms
+10/03 14:52:23 [SpawnGroup] CL:  [3: prefabs/promotional_radiant_fountain | main lump | mapload]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:23 [SpawnGroup] CL:  [4: prefabs/promotional_dire_fountain | main lump | mapload]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:23 [SpawnGroup] CL:  [2: dota | main lump | mapload]:  ProcessSpawnGroup_ManifestUpdate -- spawn group manifest update not supported for already loaded manifests
+10/03 14:52:23 [Entity System] ExecuteQueuedCreation() took 5124us [ Spawned: 249, Activated 249, PostDataUpdate: 0, Destroyed: 0, Deallocated: 0, PvsUpdate: 0 ]
+10/03 14:52:23 [Entity System] ExecuteQueuedCreation() took 5270us [ Spawned: 249, Activated 249, PostDataUpdate: 0, Destroyed: 0, Deallocated: 0, PvsUpdate: 0 ]
+10/03 14:52:29 [Demo] Demo skipping to tick 41936 from current 205, full packet tick 41403
+10/03 14:52:29 [GCClient] Send msg 2581 (k_EMsgClientToGCLookupAccountName), 13 bytes
+10/03 14:52:29 [GCClient] Send msg 2581 (k_EMsgClientToGCLookupAccountName), 14 bytes
+10/03 14:52:29 [GCClient] Send msg 2581 (k_EMsgClientToGCLookupAccountName), 13 bytes
+10/03 14:52:29 [GCClient] Send msg 2581 (k_EMsgClientToGCLookupAccountName), 13 bytes
+10/03 14:52:29 [SpawnGroup] CL:  [5: <none>]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:29 [SpawnGroup] CL:  [6: <none>]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:29 [SpawnGroup] CL:  [7: <none>]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:29 [SpawnGroup] CL:  [8: <none>]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:29 [SpawnGroup] CL:  [9: <none>]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:29 [SpawnGroup] CL:  [10: <none>]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:29 [SpawnGroup] CL:  [11: <none>]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:29 [SpawnGroup] CL:  [12: <none>]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:29 [SpawnGroup] CL:  [13: <none>]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:29 [SpawnGroup] CL:  [14: <none>]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:29 [SpawnGroup] CL:  [7: <none>]:  ProcessSpawnGroup_ManifestUpdate -- spawn group manifest update not supported for already loaded manifests
+10/03 14:52:29 [SpawnGroup] CL:  [6: <none>]:  ProcessSpawnGroup_ManifestUpdate -- spawn group manifest update not supported for already loaded manifests
+10/03 14:52:29 [SpawnGroup] CL:  [8: <none>]:  ProcessSpawnGroup_ManifestUpdate -- spawn group manifest update not supported for already loaded manifests
+10/03 14:52:29 [SpawnGroup] CL:  [10: <none>]:  ProcessSpawnGroup_ManifestUpdate -- spawn group manifest update not supported for already loaded manifests
+10/03 14:52:29 [SpawnGroup] CL:  [5: <none>]:  ProcessSpawnGroup_ManifestUpdate -- spawn group manifest update not supported for already loaded manifests
+10/03 14:52:29 [SpawnGroup] CL:  [9: <none>]:  ProcessSpawnGroup_ManifestUpdate -- spawn group manifest update not supported for already loaded manifests
+10/03 14:52:29 [SpawnGroup] CL:  [12: <none>]:  ProcessSpawnGroup_ManifestUpdate -- spawn group manifest update not supported for already loaded manifests
+10/03 14:52:29 [SpawnGroup] CL:  [11: <none>]:  ProcessSpawnGroup_ManifestUpdate -- spawn group manifest update not supported for already loaded manifests
+10/03 14:52:29 [SpawnGroup] CL:  [14: <none>]:  ProcessSpawnGroup_ManifestUpdate -- spawn group manifest update not supported for already loaded manifests
+10/03 14:52:29 [SpawnGroup] CL:  [13: <none>]:  ProcessSpawnGroup_ManifestUpdate -- spawn group manifest update not supported for already loaded manifests
+10/03 14:52:29 [SpawnGroup] CL:  [15: dota | world_layer_dire_base | <none>]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:29 [SpawnGroup] SynchronouslySpawnGroup for group 'CL:  [16: dota | world_layer_radiant_base | <none>]' took 1226us
+10/03 14:52:29 [SpawnGroup] CL:  [17: <none>]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:29 [SpawnGroup] CL:  [18: <none>]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:29 [SpawnGroup] CL:  [19: <none>]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:29 [SpawnGroup] CL:  [19: <none>]:  ProcessSpawnGroup_ManifestUpdate -- spawn group manifest update not supported for already loaded manifests
+10/03 14:52:29 [SpawnGroup] CL:  [18: <none>]:  ProcessSpawnGroup_ManifestUpdate -- spawn group manifest update not supported for already loaded manifests
+10/03 14:52:29 [SpawnGroup] CL:  [20: <none>]:  AsyncLoadSpawnGroup -- spawn group already loaded
+10/03 14:52:29 [Client] CL:  Receiving uncompressed update from server
+10/03 14:52:29 [Client] Created physics for maps/dota/world_physics.vphys
+10/03 14:52:29 Height map file (maps/prefabs/promotional_radiant_fountain.vhcg) not found, this will make ground height traces more expensive! Recompile the map to generate a height map.
+10/03 14:52:29 Height map file (maps/prefabs/promotional_dire_fountain.vhcg) not found, this will make ground height traces more expensive! Recompile the map to generate a height map.
+10/03 14:52:30 [Entity System] ExecuteQueuedCreation() took 206938us [ Spawned: 1036, Activated 0, PostDataUpdate: 1036, Destroyed: 0, Deallocated: 0, PvsUpdate: 0 ]
+10/03 14:52:30 [Entity System] ExecuteQueuedCreation() took 73285us [ Spawned: 3454, Activated 3454, PostDataUpdate: 0, Destroyed: 0, Deallocated: 0, PvsUpdate: 0 ]
+10/03 14:52:30 [Entity System] ExecuteQueuedCreation() took 1304us [ Spawned: 70, Activated 70, PostDataUpdate: 0, Destroyed: 0, Deallocated: 0, PvsUpdate: 0 ]
+10/03 14:52:30 [Entity System] ExecuteQueuedCreation() took 1481us [ Spawned: 79, Activated 79, PostDataUpdate: 0, Destroyed: 0, Deallocated: 0, PvsUpdate: 0 ]
+10/03 14:52:30 [GCClient] Recv msg 2582 (k_EMsgClientToGCLookupAccountNameResponse), 31 bytes
+10/03 14:52:30 [GCClient] Recv msg 2582 (k_EMsgClientToGCLookupAccountNameResponse), 35 bytes
+10/03 14:52:30 [GCClient] Recv msg 2582 (k_EMsgClientToGCLookupAccountNameResponse), 28 bytes
+10/03 14:52:30 [GCClient] Recv msg 2582 (k_EMsgClientToGCLookupAccountNameResponse), 30 bytes
+10/03 14:52:30 C:Gamerules: entering state 'DOTA_GAMERULES_STATE_GAME_IN_PROGRESS'
+10/03 14:52:30 [Client] CDOTA_Hud_Main::EventGameRulesStateChanged DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+10/03 14:52:30 [Client] PregameHud - SetPreGameVisible 0
+10/03 14:52:30 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 3690 (was 10740)
+10/03 14:52:30 [ResourceSystem] Error loading resource file "panorama/images/heroes/icons/_png.vtex_c" (Error: ERROR_FILEOPEN)
+10/03 14:52:30 [Client] PregameHud - eGameState is now DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+10/03 14:52:30 [Client] PregameHud - SetPreGameVisible 1
+10/03 14:52:30 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 370 (was 4680)
+10/03 14:52:30 [Demo] Demo skipping to tick 41936 from current 41941, full packet tick 41403
+10/03 14:52:30 [Client] CL: CNetworkGameClient::ProcessTick server tick 41581 went backward from previous of 42115, resetting previous
+10/03 14:52:30 [Client] CL:  Receiving uncompressed update from server
+10/03 14:52:31 [Entity System] ExecuteQueuedCreation() took 196874us [ Spawned: 1036, Activated 0, PostDataUpdate: 1036, Destroyed: 0, Deallocated: 0, PvsUpdate: 0 ]
+10/03 14:52:31 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 2003 (was 8663)
+10/03 14:52:32 [Entity System] ExecuteQueuedCreation() took 1369us [ Spawned: 48, Activated 48, PostDataUpdate: 0, Destroyed: 0, Deallocated: 0, PvsUpdate: 0 ]
+10/03 14:52:32 [Entity System] ExecuteQueuedCreation() took 1274us [ Spawned: 59, Activated 59, PostDataUpdate: 0, Destroyed: 0, Deallocated: 0, PvsUpdate: 0 ]
+10/03 14:52:34 Camera position: -2497.506836 -1015.862671 1200.050903
+10/03 14:52:34 Camera position: -2346.777100 -1012.163330 1179.507080
+10/03 14:52:34 Camera position: -2339.259521 -1011.247803 1179.507080
+10/03 14:52:34 Camera position: -2332.363281 -1009.650391 1179.507080
+10/03 14:52:34 Camera position: -2328.698730 -1007.985413 1179.507080
+10/03 14:52:34 Camera position: -2322.642578 -1003.818665 1179.507080
+10/03 14:52:34 Camera position: -2318.472412 -997.763428 1179.507080
+10/03 14:52:34 Camera position: -2315.149170 -990.274048 1179.507080
+10/03 14:52:35 Camera position: -2313.321777 -984.693298 1179.507080
+10/03 14:52:35 Camera position: -2310.485596 -974.024231 1179.507080
+10/03 14:52:35 Camera position: -2308.444580 -962.937683 1179.507080
+10/03 14:52:35 Camera position: -2306.888428 -951.201538 1179.507080
+10/03 14:52:35 Camera position: -2306.294922 -944.264404 1179.507080
+10/03 14:52:35 Camera position: -2305.678711 -932.680969 1179.507080
+10/03 14:52:35 Camera position: -2305.525146 -920.154053 1179.507080
+10/03 14:52:35 Camera position: -2305.620850 -913.400330 1179.507080
+10/03 14:52:35 Camera position: -2306.029541 -902.883911 1179.507080
+10/03 14:52:35 Camera position: -2306.757080 -892.479004 1179.507080
+10/03 14:52:35 Camera position: -2307.753662 -882.840820 1179.507080
+10/03 14:52:35 Camera position: -2309.137695 -872.396484 1179.507080
+10/03 14:52:35 Camera position: -2310.157227 -866.339111 1179.507080
+10/03 14:52:35 Camera position: -2312.050537 -856.834717 1179.507080
+10/03 14:52:35 Camera position: -2314.143066 -848.377319 1179.507080
+10/03 14:52:35 Camera position: -2316.680664 -839.800781 1179.507080
+10/03 14:52:35 Camera position: -2318.191162 -835.190552 1179.507080
+10/03 14:52:35 Camera position: -2320.774658 -827.770752 1179.507080
+10/03 14:52:35 Camera position: -2323.355469 -821.123840 1179.507080
+10/03 14:52:35 Camera position: -2326.414551 -814.118469 1179.507080
+10/03 14:52:35 [Client] PregameHud - SetPreGameVisible 0
+10/03 14:52:35 Camera position: -2329.756104 -807.752197 1179.507080
+10/03 14:52:35 Camera position: -2332.322998 -803.413025 1179.507080
+10/03 14:52:35 Camera position: -2336.137939 -797.967163 1179.507080
+10/03 14:52:35 Camera position: -2340.644287 -792.502197 1179.507080
+10/03 14:52:35 Camera position: -2345.261475 -787.738037 1179.507080
+10/03 14:52:35 Camera position: -2352.721436 -781.332947 1179.507080
+10/03 14:52:35 Camera position: -2358.559082 -776.843811 1179.507080
+10/03 14:52:35 Camera position: -2364.220215 -772.800598 1179.507080
+10/03 14:52:35 Camera position: -2370.483398 -769.134155 1179.507080
+10/03 14:52:35 Camera position: -2378.471680 -765.362183 1179.507080
+10/03 14:52:36 Camera position: -2386.941406 -761.884766 1179.507080
+10/03 14:52:36 Camera position: -2396.567383 -758.288086 1179.507080
+10/03 14:52:36 Camera position: -2405.574219 -755.117737 1179.507080
+10/03 14:52:36 Camera position: -2415.400391 -751.808350 1179.507080
+10/03 14:52:36 Camera position: -2424.497803 -748.800842 1179.507080
+10/03 14:52:36 Camera position: -2433.748291 -745.731995 1179.507080
+10/03 14:52:36 Camera position: -2442.153809 -742.938110 1179.507080
+10/03 14:52:36 Camera position: -2449.898682 -740.361572 1174.987183
+10/03 14:52:36 Camera position: -2457.773193 -738.054565 1174.987183
+10/03 14:52:36 Camera position: -2467.153809 -736.542847 1174.987183
+10/03 14:52:36 Camera position: -2474.677979 -736.404114 1174.987183
+10/03 14:52:36 Camera position: -2483.826660 -737.703491 1174.987183
+10/03 14:52:36 Camera position: -2495.718018 -740.469482 1174.987183
+10/03 14:52:36 Camera position: -2503.333008 -742.569763 1174.987183
+10/03 14:52:36 Camera position: -2513.873779 -745.669739 1174.987183
+10/03 14:52:36 Camera position: -2525.673584 -749.072144 1174.987183
+10/03 14:52:36 Camera position: -2537.925781 -752.486694 1174.987183
+10/03 14:52:36 Camera position: -2549.704590 -755.514282 1174.987183
+10/03 14:52:36 Camera position: -2560.359863 -758.114197 1174.987183
+10/03 14:52:36 Camera position: -2571.048096 -760.646973 1174.987183
+10/03 14:52:36 Camera position: -2580.870117 -762.960449 1174.987183
+10/03 14:52:36 Camera position: -2593.239746 -766.007019 1174.987183
+10/03 14:52:36 Camera position: -2601.983154 -768.200073 1174.987183
+10/03 14:52:36 Camera position: -2611.174561 -770.454529 1174.987183
+10/03 14:52:36 Camera position: -2619.098633 -772.373474 1174.987183
+10/03 14:52:36 Camera position: -2627.429688 -774.413208 1174.987183
+10/03 14:52:36 Camera position: -2637.473633 -776.849548 1174.987183
+10/03 14:52:36 Camera position: -2643.576904 -778.235107 1174.987183
+10/03 14:52:36 Camera position: -2652.919434 -780.317505 1174.987183
+10/03 14:52:36 Camera position: -2660.238281 -782.131531 1174.987183
+10/03 14:52:37 Camera position: -2666.819580 -783.823608 1174.987183
+10/03 14:52:37 Camera position: -2672.975098 -785.294006 1174.987183
+10/03 14:52:37 Camera position: -2678.310791 -786.376953 1174.987183
+10/03 14:52:37 Camera position: -2683.434814 -786.844238 1174.987183
+10/03 14:52:37 Camera position: -2688.248291 -786.862915 1174.987183
+10/03 14:52:37 Camera position: -2692.744629 -786.318359 1174.987183
+10/03 14:52:37 Camera position: -2697.831299 -785.014404 1174.987183
+10/03 14:52:37 Camera position: -2701.298584 -783.272705 1174.987183
+10/03 14:52:37 Camera position: -2704.411377 -781.206604 1174.987183
+10/03 14:52:37 Camera position: -2708.192627 -778.816345 1174.987183
+10/03 14:52:37 Camera position: -2717.142822 -773.476196 1181.619873
+10/03 14:52:37 Camera position: -2719.995850 -771.892212 1181.619873
+10/03 14:52:37 Camera position: -2724.639648 -769.615845 1181.619873
+10/03 14:52:37 Camera position: -2730.545898 -767.199585 1181.619873
+10/03 14:52:37 Camera position: -2736.604492 -765.164795 1181.619873
+10/03 14:52:37 Camera position: -2742.602783 -763.464661 1181.619873
+10/03 14:52:37 Camera position: -2748.571777 -762.245605 1181.619873
+10/03 14:52:37 Camera position: -2754.622314 -761.342834 1181.619873
+10/03 14:52:37 Camera position: -2762.668945 -760.665649 1181.619873
+10/03 14:52:37 Camera position: -2768.746094 -760.414490 1181.619873
+10/03 14:52:37 Camera position: -2775.398682 -760.417358 1181.619873
+10/03 14:52:37 Camera position: -2784.962891 -760.716919 1181.619873
+10/03 14:52:37 Camera position: -2792.537109 -761.233154 1181.619873
+10/03 14:52:37 Camera position: -2800.469482 -761.968872 1181.619873
+10/03 14:52:37 Camera position: -2808.163574 -763.083252 1181.619873
+10/03 14:52:37 Camera position: -2818.089600 -764.922546 1181.619873
+10/03 14:52:37 Camera position: -2826.306885 -766.560791 1181.619873
+10/03 14:52:37 Camera position: -2835.460205 -768.430908 1181.619873
+10/03 14:52:37 Camera position: -2844.364746 -770.275146 1181.619873
+10/03 14:52:37 Camera position: -2852.754150 -772.029541 1181.619873
+10/03 14:52:38 Camera position: -2863.383057 -774.607727 1181.619873
+10/03 14:52:38 Camera position: -2870.937500 -776.731567 1181.619873
+10/03 14:52:38 Camera position: -2881.041504 -781.117676 1181.619873
+10/03 14:52:38 Camera position: -2888.954346 -785.431946 1181.619873
+10/03 14:52:38 Camera position: -2896.769043 -790.385559 1181.619873
+10/03 14:52:38 Camera position: -2903.385010 -795.005493 1181.619873
+10/03 14:52:38 Camera position: -2912.907959 -803.053223 1181.619873
+10/03 14:52:38 Camera position: -2919.182373 -809.270874 1181.619873
+10/03 14:52:38 Camera position: -2925.438721 -816.490967 1181.619873
+10/03 14:52:38 Camera position: -2930.869385 -823.418701 1181.619873
+10/03 14:52:38 Camera position: -2938.611084 -834.225952 1181.619873
+10/03 14:52:38 Camera position: -2943.491455 -841.542480 1181.619873
+10/03 14:52:38 Camera position: -2950.491211 -852.253418 1181.619873
+10/03 14:52:38 Camera position: -2954.986084 -859.181824 1181.619873
+10/03 14:52:38 Camera position: -2958.902344 -865.238831 1181.619873
+10/03 14:52:38 Camera position: -2963.228760 -871.944702 1181.619873
+10/03 14:52:38 Camera position: -2967.536377 -878.631287 1181.619873
+10/03 14:52:38 Camera position: -2972.020508 -885.598389 1181.619873
+10/03 14:52:38 Camera position: -2977.766357 -894.449219 1181.619873
+10/03 14:52:38 Camera position: -2981.248047 -899.748047 1181.619873
+10/03 14:52:38 Camera position: -2985.206787 -905.015198 1181.619873
+10/03 14:52:38 Camera position: -2991.119873 -911.581909 1181.619873
+10/03 14:52:38 Camera position: -2996.520996 -915.710693 1181.619873
+10/03 14:52:38 Camera position: -3004.083008 -920.397583 1181.619873
+10/03 14:52:38 Camera position: -3011.877197 -924.912231 1181.619873
+10/03 14:52:38 Camera position: -3022.084473 -930.865479 1181.619873
+10/03 14:52:38 Camera position: -3029.620361 -936.432861 1181.619873
+10/03 14:52:38 Camera position: -3037.548828 -943.694275 1181.619873
+10/03 14:52:38 Camera position: -3047.394531 -954.322266 1181.619873
+10/03 14:52:38 Camera position: -3055.155518 -963.789917 1181.619873
+10/03 14:52:39 Camera position: -3062.902832 -972.539185 1181.619873
+10/03 14:52:39 Camera position: -3072.749268 -982.473145 1181.619873
+10/03 14:52:39 Camera position: -3085.756104 -993.779602 1181.619873
+10/03 14:52:39 Camera position: -3097.007324 -1002.058228 1181.619873
+10/03 14:52:39 Camera position: -3108.259277 -1009.778564 1181.619873
+10/03 14:52:39 Camera position: -3123.690430 -1020.141846 1181.619873
+10/03 14:52:39 Camera position: -3134.474854 -1027.995850 1181.619873
+10/03 14:52:39 Camera position: -3148.122559 -1039.440308 1181.619873
+10/03 14:52:39 Camera position: -3157.803711 -1048.310059 1181.619873
+10/03 14:52:39 Camera position: -3167.628662 -1057.795898 1181.619873
+10/03 14:52:39 Camera position: -3179.990967 -1070.949951 1181.619873
+10/03 14:52:39 Camera position: -3189.862549 -1082.961914 1181.619873
+10/03 14:52:39 Camera position: -3201.800293 -1098.930420 1181.619873
+10/03 14:52:39 Camera position: -3210.554443 -1111.819946 1187.614624
+10/03 14:52:39 Camera position: -3218.078857 -1123.538818 1187.614624
+10/03 14:52:39 Camera position: -3228.086182 -1139.754150 1192.964111
+10/03 14:52:39 Camera position: -3235.339844 -1151.735107 1192.964111
+10/03 14:52:39 Camera position: -3244.811523 -1167.437012 1198.380615
+10/03 14:52:39 Camera position: -3251.523682 -1176.670898 1198.380615
+10/03 14:52:39 Camera position: -3257.642578 -1181.268066 1198.380615
+10/03 14:52:39 Camera position: -3264.326416 -1182.806152 1198.380615
+10/03 14:52:39 Camera position: -3269.181396 -1181.889893 1198.380615
+10/03 14:52:39 Camera position: -3273.750488 -1179.798828 1198.380615
+10/03 14:52:39 Camera position: -3278.984619 -1176.260742 1198.380615
+10/03 14:52:39 Camera position: -3282.559814 -1173.408936 1198.380615
+10/03 14:52:39 Camera position: -3287.670898 -1169.128906 1198.380615
+10/03 14:52:39 Camera position: -3291.524170 -1165.898438 1198.380615
+10/03 14:52:39 Camera position: -3294.998291 -1163.139893 1198.380615
+10/03 14:52:39 Camera position: -3299.249268 -1160.506592 1198.380615
+10/03 14:52:39 Camera position: -3302.260498 -1160.097656 1198.380615
+10/03 14:52:39 Camera position: -3305.182129 -1160.759033 1198.380615
+10/03 14:52:40 Camera position: -3308.647461 -1163.364746 1198.380615
+10/03 14:52:40 Camera position: -3311.439941 -1166.479248 1198.380615
+10/03 14:52:40 Camera position: -3314.842285 -1171.569092 1198.380615
+10/03 14:52:40 Camera position: -3317.566406 -1176.707642 1198.380615
+10/03 14:52:40 Camera position: -3319.837891 -1182.831055 1198.380615
+10/03 14:52:40 Camera position: -3322.377441 -1191.462158 1198.380615
+10/03 14:52:40 Camera position: -3324.790527 -1201.061523 1198.380615
+10/03 14:52:40 Camera position: -3326.576416 -1208.869507 1198.380615
+10/03 14:52:40 Camera position: -3328.462158 -1217.916138 1198.380615
+10/03 14:52:40 Camera position: -3330.744629 -1229.865723 1198.380615
+10/03 14:52:40 Camera position: -3332.539551 -1240.552368 1198.380615
+10/03 14:52:40 Camera position: -3334.707764 -1254.473389 1198.380615
+10/03 14:52:40 Camera position: -3336.318359 -1265.351929 1198.380615
+10/03 14:52:40 Camera position: -3338.187744 -1278.831543 1198.380615
+10/03 14:52:40 Camera position: -3339.669922 -1291.137573 1204.674683
+10/03 14:52:40 Camera position: -3341.023193 -1303.232422 1204.674683
+10/03 14:52:40 Camera position: -3342.804688 -1319.254883 1204.674683
+10/03 14:52:40 Camera position: -3344.084229 -1330.940186 1204.674683
+10/03 14:52:40 Camera position: -3345.232666 -1342.343140 1204.674683
+10/03 14:52:40 Camera position: -3346.519775 -1356.071289 1204.674683
+10/03 14:52:40 Camera position: -3347.743408 -1369.363525 1204.674683
+10/03 14:52:40 Camera position: -3348.616943 -1378.819336 1204.674683
+10/03 14:52:40 Camera position: -3349.826416 -1391.054565 1204.674683
+10/03 14:52:40 Camera position: -3350.740723 -1400.009766 1204.674683
+10/03 14:52:40 Camera position: -3351.567383 -1408.752197 1204.674683
+10/03 14:52:40 Camera position: -3352.695068 -1421.730103 1204.674683
+10/03 14:52:40 Camera position: -3353.417969 -1432.875244 1204.674683
+10/03 14:52:40 Camera position: -3354.031494 -1444.510254 1204.674683
+10/03 14:52:40 Camera position: -3354.926025 -1458.625977 1204.674683
+10/03 14:52:40 Camera position: -3355.672607 -1468.704346 1204.674683
+10/03 14:52:41 Camera position: -3356.585693 -1482.929199 1204.674683
+10/03 14:52:41 Camera position: -3357.156982 -1493.363525 1204.674683
+10/03 14:52:41 Camera position: -3357.661133 -1502.957642 1204.674683
+10/03 14:52:41 Camera position: -3358.245850 -1514.342407 1204.674683
+10/03 14:52:41 Camera position: -3358.713379 -1523.842529 1204.674683
+10/03 14:52:41 Camera position: -3359.310303 -1536.499390 1204.674683
+10/03 14:52:41 Camera position: -3359.759521 -1546.972168 1204.674683
+10/03 14:52:41 Camera position: -3360.347656 -1561.599487 1204.674683
+10/03 14:52:41 Camera position: -3360.793213 -1572.774780 1204.674683
+10/03 14:52:41 Camera position: -3361.241455 -1584.004883 1204.674683
+10/03 14:52:41 Camera position: -3361.803467 -1598.072510 1204.674683
+10/03 14:52:41 Camera position: -3362.223633 -1608.592529 1204.674683
+10/03 14:52:41 Camera position: -3362.771240 -1623.208008 1204.674683
+10/03 14:52:41 Camera position: -3363.315430 -1639.021729 1204.674683
+10/03 14:52:41 Camera position: -3363.582520 -1650.600098 1204.674683
+10/03 14:52:41 Camera position: -3363.793701 -1665.185303 1204.674683
+10/03 14:52:41 Camera position: -3364.032227 -1677.982178 1204.674683
+10/03 14:52:41 Camera position: -3364.433350 -1696.086426 1208.288086
+10/03 14:52:41 Camera position: -3364.665527 -1710.560547 1211.910522
+10/03 14:52:41 Camera position: -3364.837402 -1727.606689 1211.910522
+10/03 14:52:41 Camera position: -3365.041504 -1739.770020 1211.910522
+10/03 14:52:41 Camera position: -3365.350830 -1752.956055 1211.910522
+10/03 14:52:41 Camera position: -3365.681641 -1769.601074 1211.910522
+10/03 14:52:41 Camera position: -3365.799805 -1779.611084 1211.910522
+10/03 14:52:41 Camera position: -3366.083740 -1794.531738 1211.910522
+10/03 14:52:41 Camera position: -3366.366943 -1804.391357 1211.910522
+10/03 14:52:41 Camera position: -3366.630127 -1815.749268 1211.910522
+10/03 14:52:41 Camera position: -3366.821777 -1830.947998 1211.910522
+10/03 14:52:41 Camera position: -3366.886719 -1840.576660 1211.910522
+10/03 14:52:41 Camera position: -3366.950195 -1855.624268 1211.910522
+10/03 14:52:42 Camera position: -3367.103027 -1865.732910 1211.910522
+10/03 14:52:42 Camera position: -3367.380371 -1876.490234 1211.910522
+10/03 14:52:42 Camera position: -3367.638184 -1887.067871 1211.910522
+10/03 14:52:42 Camera position: -3367.818359 -1900.143555 1211.910522
+10/03 14:52:42 Camera position: -3367.893066 -1909.491455 1211.910522
+10/03 14:52:42 Camera position: -3367.946533 -1920.753662 1211.910522
+10/03 14:52:42 Camera position: -3367.965576 -1928.159912 1211.910522
+10/03 14:52:42 Camera position: -3367.982178 -1939.744385 1211.910522
+10/03 14:52:42 Camera position: -3367.989014 -1948.280029 1211.910522
+10/03 14:52:42 Camera position: -3367.993408 -1957.523682 1211.910522
+10/03 14:52:42 Camera position: -3368.114990 -1968.384521 1211.910522
+10/03 14:52:42 Camera position: -3368.380615 -1977.252930 1211.910522
+10/03 14:52:42 Camera position: -3368.674561 -1987.296143 1211.910522
+10/03 14:52:42 Camera position: -3368.810547 -1995.235840 1211.910522
+10/03 14:52:42 Camera position: -3368.884033 -2002.130615 1211.910522
+10/03 14:52:42 Camera position: -3368.943115 -2011.446533 1211.910522
+10/03 14:52:42 Camera position: -3368.965576 -2017.669189 1211.910522
+10/03 14:52:42 Camera position: -3368.979980 -2023.742188 1211.910522
+10/03 14:52:42 Camera position: -3368.989502 -2030.920654 1211.910522
+10/03 14:52:42 Camera position: -3368.993896 -2036.628174 1211.910522
+10/03 14:52:42 Camera position: -3368.996826 -2043.766357 1211.910522
+10/03 14:52:42 Camera position: -3368.998047 -2049.930176 1211.910522
+10/03 14:52:42 Camera position: -3368.998779 -2056.928467 1211.910522
+10/03 14:52:42 Camera position: -3368.999268 -2065.379150 1211.910522
+10/03 14:52:42 Camera position: -3368.999512 -2076.716797 1211.910522
+10/03 14:52:42 Camera position: -3368.999512 -2085.371582 1211.910522
+10/03 14:52:42 Camera position: -3369.100586 -2096.023682 1211.910522
+10/03 14:52:42 Camera position: -3369.348145 -2104.842041 1211.910522
+10/03 14:52:42 Camera position: -3369.621338 -2113.507080 1211.910522
+10/03 14:52:42 Camera position: -3369.804688 -2123.170654 1211.910522
+10/03 14:52:43 Camera position: -3369.880615 -2130.007324 1211.910522
+10/03 14:52:43 Camera position: -3369.931885 -2137.481201 1211.910522
+10/03 14:52:43 Camera position: -3369.963867 -2145.671143 1211.910522
+10/03 14:52:43 Camera position: -3369.979492 -2152.272461 1211.910522
+10/03 14:52:43 Camera position: -3369.987549 -2157.944580 1211.910522
+10/03 14:52:43 Camera position: -3369.993652 -2165.152588 1211.910522
+10/03 14:52:43 Camera position: -3369.996094 -2170.326416 1211.910522
+10/03 14:52:43 Camera position: -3369.997803 -2175.540527 1211.910522
+10/03 14:52:43 Camera position: -3369.730469 -2181.590088 1211.910522
+10/03 14:52:43 Camera position: -3368.885498 -2185.869873 1211.910522
+10/03 14:52:43 Camera position: -3366.948975 -2191.230225 1211.910522
+10/03 14:52:43 Camera position: -3364.529297 -2194.950684 1211.910522
+10/03 14:52:43 Camera position: -3361.292969 -2198.283691 1211.910522
+10/03 14:52:43 Camera position: -3354.423828 -2201.761230 1211.910522
+10/03 14:52:43 Camera position: -3347.815918 -2204.030273 1211.910522
+10/03 14:52:43 Camera position: -3336.377686 -2207.114990 1214.152832
+10/03 14:52:43 Camera position: -3330.138672 -2208.532959 1214.152832
+10/03 14:52:43 Camera position: -3321.133789 -2210.381592 1214.152832
+10/03 14:52:43 Camera position: -3308.946777 -2212.759766 1214.152832
+10/03 14:52:43 Camera position: -3298.258545 -2214.967041 1214.152832
+10/03 14:52:43 Camera position: -3283.568604 -2218.080078 1214.152832
+10/03 14:52:43 Camera position: -3272.188721 -2220.440674 1214.152832
+10/03 14:52:43 Camera position: -3260.452148 -2222.855225 1214.152832
+10/03 14:52:43 Camera position: -3244.770996 -2226.186768 1214.447998
+10/03 14:52:43 Camera position: -3233.485840 -2228.699219 1214.447998
+10/03 14:52:43 Camera position: -3221.493896 -2231.622803 1214.447998
+10/03 14:52:43 Camera position: -3210.284424 -2234.525391 1214.447998
+10/03 14:52:43 Camera position: -3195.225830 -2238.630371 1214.447998
+10/03 14:52:43 Camera position: -3184.212158 -2241.755371 1214.447998
+10/03 14:52:43 Camera position: -3172.413574 -2245.328857 1214.447998
+10/03 14:52:43 Camera position: -3161.434814 -2248.786621 1214.447998
+10/03 14:52:44 Camera position: -3148.767578 -2252.755127 1214.447998
+10/03 14:52:44 Camera position: -3134.623779 -2257.155273 1214.447998
+10/03 14:52:44 Camera position: -3123.739746 -2260.566406 1214.447998
+10/03 14:52:44 Camera position: -3112.268555 -2264.184082 1214.447998
+10/03 14:52:44 Camera position: -3101.210205 -2267.693359 1214.447998
+10/03 14:52:44 Camera position: -3086.591553 -2272.373535 1214.447998
+10/03 14:52:44 Camera position: -3075.134033 -2276.163818 1214.447998
+10/03 14:52:44 Camera position: -3063.769531 -2279.988770 1214.447998
+10/03 14:52:44 Camera position: -3052.626465 -2283.682861 1214.447998
+10/03 14:52:44 Camera position: -3038.905029 -2288.160645 1214.447998
+10/03 14:52:44 Camera position: -3024.981689 -2292.737305 1212.054077
+10/03 14:52:44 Camera position: -3013.605469 -2296.472900 1212.054077
+10/03 14:52:44 Camera position: -3002.232178 -2300.012451 1212.054077
+10/03 14:52:44 Camera position: -2990.499268 -2303.519287 1212.054077
+10/03 14:52:44 Camera position: -2975.448486 -2308.022949 1212.054077
+10/03 14:52:44 Camera position: -2964.638916 -2311.266357 1212.054077
+10/03 14:52:44 Camera position: -2953.296387 -2314.538330 1212.054077
+10/03 14:52:44 Camera position: -2942.072021 -2317.681885 1212.054077
+10/03 14:52:44 Camera position: -2927.889160 -2321.448486 1212.054077
+10/03 14:52:44 Camera position: -2917.457031 -2324.094482 1212.054077
+10/03 14:52:44 Camera position: -2906.294189 -2326.857666 1212.054077
+10/03 14:52:44 Camera position: -2894.703369 -2329.686523 1212.054077
+10/03 14:52:44 Camera position: -2883.770264 -2332.266357 1212.054077
+10/03 14:52:44 Camera position: -2871.415283 -2335.110107 1209.890259
+10/03 14:52:44 Camera position: -2855.008301 -2338.588623 1209.890259
+10/03 14:52:44 Camera position: -2843.794434 -2340.768066 1209.890259
+10/03 14:52:44 Camera position: -2833.789551 -2342.665771 1209.890259
+10/03 14:52:44 Camera position: -2817.232422 -2345.764160 1207.781616
+10/03 14:52:44 Camera position: -2805.219971 -2347.921631 1207.781616
+10/03 14:52:44 Camera position: -2793.864258 -2349.900635 1207.781616
+10/03 14:52:45 Camera position: -2783.657715 -2351.648438 1207.781616
+10/03 14:52:45 Camera position: -2771.934814 -2353.635010 1205.568604
+10/03 14:52:45 Camera position: -2756.398682 -2356.246826 1205.568604
+10/03 14:52:45 Camera position: -2745.184326 -2358.124268 1205.568604
+10/03 14:52:45 Camera position: -2735.475098 -2359.746826 1205.568604
+10/03 14:52:45 Camera position: -2723.472168 -2361.750732 1203.197021
+10/03 14:52:45 Camera position: -2712.363037 -2363.563721 1203.197021
+10/03 14:52:45 Camera position: -2700.638672 -2365.430420 1203.197021
+10/03 14:52:45 Camera position: -2684.401123 -2367.830078 1203.197021
+10/03 14:52:45 Camera position: -2674.083252 -2369.219727 1203.197021
+10/03 14:52:45 Camera position: -2663.257568 -2370.747559 1203.197021
+10/03 14:52:45 Camera position: -2649.289063 -2372.914307 1203.197021
+10/03 14:52:45 Camera position: -2637.940186 -2374.603516 1203.197021
+10/03 14:52:45 Camera position: -2625.779541 -2376.260010 1200.875977
+10/03 14:52:45 Camera position: -2614.485596 -2377.795410 1200.875977
+10/03 14:52:45 Camera position: -2597.720215 -2380.171387 1198.896118
+10/03 14:52:45 Camera position: -2587.417236 -2381.594238 1198.896118
+10/03 14:52:45 Camera position: -2576.026611 -2383.112793 1198.896118
+10/03 14:52:45 Camera position: -2565.062012 -2384.472900 1198.896118
+10/03 14:52:45 Camera position: -2551.949707 -2385.921143 1196.603271
+10/03 14:52:45 Camera position: -2541.100586 -2387.090820 1196.603271
+10/03 14:52:45 Camera position: -2529.322754 -2388.424072 1196.603271
+10/03 14:52:45 Camera position: -2518.072510 -2389.669189 1196.603271
+10/03 14:52:45 Camera position: -2505.768555 -2390.908203 1196.603271
+10/03 14:52:45 Camera position: -2494.454834 -2391.956299 1196.603271
+10/03 14:52:45 Camera position: -2481.813965 -2393.037109 1194.505493
+10/03 14:52:45 Camera position: -2470.116943 -2393.868652 1194.505493
+10/03 14:52:45 Camera position: -2456.135986 -2394.434326 1194.505493
+10/03 14:52:45 Camera position: -2445.667480 -2394.665283 1194.505493
+10/03 14:52:45 Camera position: -2433.349854 -2394.818604 1194.505493
+10/03 14:52:46 Camera position: -2422.504639 -2394.633545 1194.505493
+10/03 14:52:46 Camera position: -2410.885986 -2393.862793 1194.505493
+10/03 14:52:46 Camera position: -2400.812744 -2392.948486 1194.505493
+10/03 14:52:46 Camera position: -2390.653320 -2391.989502 1194.505493
+10/03 14:52:46 Camera position: -2380.978271 -2390.922607 1194.505493
+10/03 14:52:46 Camera position: -2369.374268 -2389.044678 1194.505493
+10/03 14:52:46 Camera position: -2360.894287 -2387.430176 1194.505493
+10/03 14:52:46 Camera position: -2352.686523 -2385.791016 1194.505493
+10/03 14:52:46 Camera position: -2346.388184 -2384.446289 1194.505493
+10/03 14:52:46 Camera position: -2340.253662 -2383.013184 1194.505493
+10/03 14:52:46 Camera position: -2334.827148 -2381.691895 1194.505493
+10/03 14:52:46 Camera position: -2328.213379 -2380.132324 1194.505493
+10/03 14:52:46 Camera position: -2323.763184 -2379.169434 1194.505493
+10/03 14:52:46 Camera position: -2319.462158 -2378.385254 1194.505493
+10/03 14:52:46 Camera position: -2315.693359 -2377.774902 1194.505493
+10/03 14:52:46 Camera position: -2311.684326 -2377.154785 1194.505493
+10/03 14:52:46 Camera position: -2307.827881 -2376.586426 1194.505493
+10/03 14:52:46 Camera position: -2303.971924 -2376.056396 1194.505493
+10/03 14:52:46 Camera position: -2300.409912 -2375.622070 1194.505493
+10/03 14:52:46 Camera position: -2296.938965 -2375.346680 1194.505493
+10/03 14:52:46 Camera position: -2293.819580 -2375.204102 1194.505493
+10/03 14:52:46 Camera position: -2288.111084 -2375.089844 1194.505493
+10/03 14:52:46 Camera position: -2285.209717 -2375.061035 1194.505493
+10/03 14:52:46 Camera position: -2280.966064 -2375.033936 1194.505493
+10/03 14:52:46 Camera position: -2275.901611 -2375.016846 1194.505493
+10/03 14:52:46 Camera position: -2271.451904 -2375.009521 1194.505493
+10/03 14:52:46 Camera position: -2267.056152 -2375.056885 1194.505493
+10/03 14:52:46 Camera position: -2262.271484 -2375.273193 1194.505493
+10/03 14:52:46 Camera position: -2257.584473 -2375.554688 1194.505493
+10/03 14:52:46 Camera position: -2251.227539 -2375.783691 1194.505493
+10/03 14:52:47 Camera position: -2246.798584 -2375.873779 1194.505493
+10/03 14:52:47 Camera position: -2242.827881 -2375.931152 1194.505493
+10/03 14:52:47 Camera position: -2239.552734 -2375.996826 1194.505493
+10/03 14:52:47 Camera position: -2234.864014 -2376.212646 1194.505493
+10/03 14:52:47 Camera position: -2228.200439 -2376.567139 1194.505493
+10/03 14:52:47 Camera position: -2223.379883 -2376.747803 1194.505493
+10/03 14:52:47 Camera position: -2219.199463 -2376.830078 1194.505493
+10/03 14:52:47 Camera position: -2214.753662 -2376.708252 1194.505493
+10/03 14:52:47 Camera position: -2209.438232 -2376.392822 1194.505493
+10/03 14:52:47 Camera position: -2205.186768 -2376.227051 1194.505493
+10/03 14:52:47 Camera position: -2201.241699 -2376.123291 1194.505493
+10/03 14:52:47 Camera position: -2195.851563 -2375.809570 1194.505493
+10/03 14:52:47 Camera position: -2191.955811 -2375.471191 1194.505493
+10/03 14:52:47 Camera position: -2187.540771 -2374.892578 1194.505493
+10/03 14:52:47 Camera position: -2182.014893 -2373.988770 1194.505493
+10/03 14:52:47 Camera position: -2177.695557 -2373.210449 1194.505493
+10/03 14:52:47 Camera position: -2173.270508 -2372.377686 1194.505493
+10/03 14:52:47 Camera position: -2167.196289 -2371.201660 1194.505493
+10/03 14:52:47 Camera position: -2162.529541 -2370.296631 1194.505493
+10/03 14:52:47 Camera position: -2158.295654 -2369.567383 1194.505493
+10/03 14:52:47 Camera position: -2154.403320 -2368.962158 1194.505493
+10/03 14:52:47 Camera position: -2149.410645 -2368.033203 1194.505493
+10/03 14:52:47 Camera position: -2145.742920 -2367.252441 1194.505493
+10/03 14:52:47 Camera position: -2142.375732 -2366.569580 1194.505493
+10/03 14:52:47 Camera position: -2138.428711 -2365.822754 1194.505493
+10/03 14:52:47 Camera position: -2135.678955 -2365.298828 1194.505493
+10/03 14:52:47 Camera position: -2133.224609 -2364.822510 1194.505493
+10/03 14:52:47 Camera position: -2130.258789 -2364.197510 1194.505493
+10/03 14:52:47 Camera position: -2128.196777 -2363.730225 1194.505493
+10/03 14:52:47 Camera position: -2126.172119 -2363.253174 1194.505493
+10/03 14:52:47 Camera position: -2123.713379 -2362.674561 1194.505493
+10/03 14:52:48 Camera position: -2122.086914 -2362.404541 1194.505493
+10/03 14:52:48 Camera position: -2120.508545 -2362.232666 1194.505493
+10/03 14:52:48 Camera position: -2118.880615 -2361.911865 1194.505493
+10/03 14:52:48 Camera position: -2117.779541 -2361.582764 1194.505493
+10/03 14:52:48 Camera position: -2116.707275 -2361.362549 1194.505493
+10/03 14:52:48 Camera position: -2114.883301 -2361.148438 1194.505493
+10/03 14:52:48 Camera position: -2113.660889 -2360.883789 1194.505493
+10/03 14:52:48 Camera position: -2112.468750 -2360.505615 1194.505493
+10/03 14:52:48 Camera position: -2111.618408 -2360.284668 1194.505493
+10/03 14:52:48 Camera position: -2110.959229 -2360.167480 1194.505493
+10/03 14:52:48 Camera position: -2110.250732 -2360.100342 1194.505493
+10/03 14:52:48 Camera position: -2109.542480 -2360.062500 1194.505493
+10/03 14:52:48 Camera position: -2108.566895 -2359.850342 1194.505493
+10/03 14:52:48 Camera position: -2108.034424 -2359.586914 1194.505493
+10/03 14:52:48 Camera position: -2107.300049 -2359.281738 1194.505493
+10/03 14:52:48 Camera position: -2106.785156 -2359.162109 1194.505493
+10/03 14:52:48 Camera position: -2106.351807 -2359.100830 1194.505493
+10/03 14:52:48 Camera position: -2105.896240 -2359.060303 1194.505493
+10/03 14:52:48 Camera position: -2105.259033 -2359.029053 1194.505493
+10/03 14:52:48 Camera position: -2104.857422 -2359.018311 1194.505493
+10/03 14:52:48 Camera position: -2104.416748 -2358.829102 1194.505493
+10/03 14:52:48 Camera position: -2104.259033 -2358.569824 1194.505493
+10/03 14:52:48 Camera position: -2104.047119 -2358.343994 1194.505493
+10/03 14:52:48 Camera position: -2103.682861 -2358.185059 1194.505493
+10/03 14:52:48 Camera position: -2103.307373 -2358.109619 1194.505493
+10/03 14:52:48 Camera position: -2102.767822 -2358.054932 1194.505493
+10/03 14:52:48 [Entity System] ExecuteQueuedCreation() took 1614us [ Spawned: 79, Activated 0, PostDataUpdate: 179, Destroyed: 0, Deallocated: 0, PvsUpdate: 0 ]
+10/03 14:52:48 Camera position: -2102.455078 -2358.032471 1194.505493
+10/03 14:52:48 Camera position: -2102.232178 -2358.016357 1194.505493
+10/03 14:52:48 Camera position: -2102.133545 -2358.009521 1194.505493
+10/03 14:52:48 Camera position: -2102.072754 -2358.005127 1194.505493
+10/03 14:52:49 Camera position: -2101.924316 -2358.002930 1194.505493
+10/03 14:52:49 Camera position: -2101.633545 -2358.001709 1194.505493
+10/03 14:52:49 Camera position: -2101.364502 -2358.000977 1194.505493
+10/03 14:52:49 Camera position: -2101.203125 -2358.000488 1194.505493
+10/03 14:52:49 Camera position: -2101.118408 -2358.000244 1194.505493
+10/03 14:52:49 Camera position: -2101.066406 -2358.000244 1194.505493
+10/03 14:52:49 Camera position: -2100.917725 -2358.000244 1194.505493
+10/03 14:52:49 Camera position: -2100.622314 -2358.000244 1194.505493
+10/03 14:52:49 Camera position: -2100.356934 -2358.000244 1194.505493
+10/03 14:52:49 Camera position: -2100.188721 -2358.000000 1194.505493
+10/03 14:52:49 Camera position: -2100.009521 -2358.000000 1194.505493
+10/03 14:52:49 Camera position: -2099.674805 -2358.000488 1194.505493
+10/03 14:52:49 Camera position: -2099.218018 -2358.089355 1194.505493
+10/03 14:52:49 Camera position: -2098.512207 -2358.354736 1194.505493
+10/03 14:52:49 Camera position: -2097.768066 -2358.749023 1194.505493
+10/03 14:52:49 Camera position: -2096.899902 -2359.394043 1194.505493
+10/03 14:52:49 Camera position: -2095.748291 -2360.396484 1194.505493
+10/03 14:52:49 Camera position: -2094.779541 -2361.300781 1194.505493
+10/03 14:52:49 Camera position: -2093.788330 -2362.175049 1194.505493
+10/03 14:52:49 Camera position: -2092.504639 -2363.166260 1194.505493
+10/03 14:52:49 Camera position: -2091.175537 -2364.216309 1194.505493
+10/03 14:52:49 Camera position: -2089.560547 -2365.661865 1194.505493
+10/03 14:52:49 Camera position: -2087.954834 -2367.228271 1194.505493
+10/03 14:52:49 Camera position: -2086.377197 -2368.974854 1194.505493
+10/03 14:52:49 Camera position: -2084.422119 -2371.394043 1194.505493
+10/03 14:52:49 Camera position: -2082.707031 -2373.740967 1194.505493
+10/03 14:52:49 Camera position: -2081.040771 -2376.143311 1194.505493
+10/03 14:52:49 Camera position: -2079.428223 -2378.599121 1194.505493
+10/03 14:52:49 Camera position: -2077.937744 -2381.020508 1194.505493
+10/03 14:52:49 Camera position: -2076.398926 -2383.934082 1194.505493
+10/03 14:52:50 Camera position: -2074.498535 -2387.990967 1194.505493
+10/03 14:52:50 Camera position: -2073.021973 -2391.498047 1194.505493
+10/03 14:52:50 Camera position: -2071.949463 -2395.131104 1194.505493
+10/03 14:52:50 Camera position: -2071.846436 -2399.793945 1194.505493
+10/03 14:52:50 Camera position: -2072.387207 -2404.800537 1194.505493
+10/03 14:52:50 Camera position: -2073.582031 -2412.341553 1194.505493
+10/03 14:52:50 Camera position: -2074.692383 -2418.437744 1194.505493
+10/03 14:52:50 Camera position: -2076.052002 -2425.183594 1194.505493
+10/03 14:52:50 Camera position: -2077.331299 -2431.119385 1194.505493
+10/03 14:52:50 Camera position: -2078.681152 -2437.024902 1194.505493
+10/03 14:52:50 Camera position: -2080.124512 -2443.105469 1194.505493
+10/03 14:52:50 Camera position: -2081.610596 -2449.224609 1194.505493
+10/03 14:52:50 Camera position: -2083.406738 -2456.519531 1194.505493
+10/03 14:52:50 Camera position: -2084.860596 -2462.381836 1194.505493
+10/03 14:52:50 Camera position: -2086.155029 -2467.684570 1194.505493
+10/03 14:52:50 Camera position: -2087.392090 -2473.263428 1194.505493
+10/03 14:52:50 Camera position: -2088.435303 -2478.315186 1194.505493
+10/03 14:52:50 Camera position: -2089.758545 -2484.596680 1194.505493
+10/03 14:52:50 Camera position: -2090.717285 -2489.071289 1194.505493
+10/03 14:52:50 Camera position: -2091.682617 -2493.691406 1194.505493
+10/03 14:52:50 Camera position: -2092.588623 -2498.082520 1194.505493
+10/03 14:52:50 Camera position: -2093.788086 -2503.516602 1194.505493
+10/03 14:52:50 Camera position: -2094.657959 -2507.463867 1194.505493
+10/03 14:52:50 Camera position: -2095.218018 -2511.699463 1194.505493
+10/03 14:52:50 Camera position: -2095.634277 -2517.276855 1194.505493
+10/03 14:52:50 Camera position: -2095.996338 -2521.966797 1194.505493
+10/03 14:52:50 Camera position: -2096.370117 -2526.629883 1194.505493
+10/03 14:52:50 Camera position: -2096.645508 -2532.048828 1194.505493
+10/03 14:52:50 Camera position: -2096.819336 -2538.742676 1194.505493
+10/03 14:52:50 Camera position: -2096.895996 -2544.264648 1194.505493
+10/03 14:52:50 Camera position: -2096.936768 -2549.350342 1194.505493
+10/03 14:52:51 Camera position: -2096.968994 -2556.408447 1194.505493
+10/03 14:52:51 Camera position: -2097.008301 -2562.092529 1194.505493
+10/03 14:52:51 Camera position: -2097.248779 -2569.094971 1194.505493
+10/03 14:52:51 Camera position: -2097.536621 -2575.142090 1194.505493
+10/03 14:52:51 Camera position: -2097.743652 -2581.482422 1194.505493
+10/03 14:52:51 Camera position: -2097.845215 -2586.728516 1194.505493
+10/03 14:52:51 Camera position: -2097.911133 -2592.717285 1194.505493
+10/03 14:52:51 Camera position: -2097.956055 -2600.672119 1194.505493
+10/03 14:52:51 Camera position: -2097.974854 -2606.763672 1194.505493
+10/03 14:52:51 Camera position: -2097.985352 -2612.547852 1194.505493
+10/03 14:52:51 Camera position: -2097.991943 -2619.201172 1194.505493
+10/03 14:52:51 Camera position: -2097.995117 -2625.400146 1194.505493
+10/03 14:52:51 Camera position: -2097.997803 -2633.888184 1194.505493
+10/03 14:52:51 Camera position: -2097.998535 -2639.553467 1194.505493
+10/03 14:52:51 Camera position: -2097.999268 -2645.893799 1194.505493
+10/03 14:52:51 Camera position: -2097.998047 -2652.286377 1194.505493
+10/03 14:52:51 Camera position: -2097.736328 -2657.716553 1194.505493
+10/03 14:52:51 Camera position: -2097.171631 -2663.395752 1194.505493
+10/03 14:52:51 Camera position: -2094.687988 -2669.457275 1194.505493
+10/03 14:52:51 Camera position: -2091.600098 -2672.440430 1194.505493
+10/03 14:52:51 Camera position: -2086.890137 -2673.163086 1194.505493
+10/03 14:52:51 Camera position: -2081.723145 -2672.128906 1194.505493
+10/03 14:52:51 Camera position: -2076.504883 -2670.110840 1194.505493
+10/03 14:52:51 Camera position: -2070.197510 -2666.984863 1194.505493
+10/03 14:52:51 Camera position: -2062.856201 -2662.811523 1194.505493
+10/03 14:52:51 Camera position: -2058.584229 -2660.098389 1194.505493
+10/03 14:52:51 Camera position: -2053.971924 -2655.017334 1194.505493
+10/03 14:52:51 Camera position: -2047.604858 -2646.456787 1194.505493
+10/03 14:52:51 Camera position: -2039.323364 -2633.427490 1194.505493
+10/03 14:52:51 Camera position: -2033.526611 -2622.920410 1194.505493
+10/03 14:52:52 Camera position: -2028.256592 -2612.640869 1194.505493
+10/03 14:52:52 Camera position: -2022.171387 -2600.157227 1189.439575
+10/03 14:52:52 Camera position: -2017.493042 -2590.192383 1189.439575
+10/03 14:52:52 Camera position: -2012.813721 -2580.046631 1189.439575
+10/03 14:52:52 Camera position: -2008.248779 -2570.978271 1189.439575
+10/03 14:52:52 Camera position: -2002.989380 -2561.639160 1189.439575
+10/03 14:52:52 Camera position: -1994.214844 -2548.781982 1189.439575
+10/03 14:52:52 Camera position: -1985.031128 -2537.361572 1183.102051
+10/03 14:52:52 Camera position: -1975.198120 -2526.034668 1183.102051
+10/03 14:52:52 Camera position: -1965.048584 -2514.803467 1183.102051
+10/03 14:52:52 Camera position: -1955.163818 -2504.027100 1183.102051
+10/03 14:52:52 Camera position: -1945.156494 -2493.057861 1183.102051
+10/03 14:52:52 Camera position: -1932.892212 -2479.806152 1183.102051
+10/03 14:52:52 Camera position: -1923.952393 -2470.474609 1183.102051
+10/03 14:52:52 Camera position: -1914.990601 -2461.060791 1183.102051
+10/03 14:52:52 Camera position: -1906.407837 -2451.823975 1183.102051
+10/03 14:52:52 Camera position: -1898.036987 -2443.285889 1183.102051
+10/03 14:52:52 Camera position: -1889.222412 -2435.357666 1183.102051
+10/03 14:52:52 Camera position: -1880.039429 -2427.734863 1183.102051
+10/03 14:52:52 Camera position: -1870.690552 -2420.310059 1183.102051
+10/03 14:52:52 Camera position: -1859.860474 -2411.994629 1183.102051
+10/03 14:52:52 Camera position: -1851.401245 -2405.713623 1183.102051
+10/03 14:52:52 Camera position: -1841.255127 -2398.342529 1183.102051
+10/03 14:52:52 Camera position: -1832.976196 -2392.403809 1183.102051
+10/03 14:52:52 Camera position: -1825.004883 -2386.690674 1183.102051
+10/03 14:52:52 Camera position: -1817.495361 -2381.259277 1183.102051
+10/03 14:52:52 Camera position: -1810.552124 -2376.223633 1183.102051
+10/03 14:52:52 Camera position: -1801.367065 -2369.602051 1183.102051
+10/03 14:52:52 Camera position: -1794.850830 -2364.590820 1183.102051
+10/03 14:52:52 Camera position: -1788.986938 -2359.395996 1183.102051
+10/03 14:52:52 Camera position: -1783.643677 -2353.942627 1183.102051
+10/03 14:52:53 Camera position: -1776.574707 -2344.895996 1183.102051
+10/03 14:52:53 Camera position: -1771.718628 -2337.967285 1183.102051
+10/03 14:52:53 Camera position: -1766.891235 -2330.854248 1183.102051
+10/03 14:52:53 Camera position: -1762.351074 -2323.993652 1183.102051
+10/03 14:52:53 Camera position: -1757.636963 -2316.695068 1183.102051
+10/03 14:52:53 Camera position: -1751.929565 -2307.596924 1183.102051
+10/03 14:52:53 Camera position: -1747.832520 -2300.665771 1183.102051
+10/03 14:52:53 Camera position: -1744.297241 -2294.564941 1183.102051
+10/03 14:52:53 Camera position: -1740.905273 -2288.901123 1183.102051
+10/03 14:52:53 Camera position: -1736.584839 -2281.872803 1183.102051
+10/03 14:52:53 Camera position: -1733.462402 -2276.870850 1183.102051
+10/03 14:52:53 Camera position: -1730.250122 -2271.743896 1183.102051
+10/03 14:52:53 Camera position: -1726.827148 -2266.195557 1183.102051
+10/03 14:52:53 Camera position: -1723.991455 -2261.568848 1183.102051
+10/03 14:52:53 Camera position: -1720.440552 -2255.959717 1183.102051
+10/03 14:52:53 Camera position: -1717.833374 -2251.929932 1183.102051
+10/03 14:52:53 Camera position: -1715.376221 -2248.167969 1183.102051
+10/03 14:52:53 Camera position: -1712.509399 -2243.938232 1183.102051
+10/03 14:52:53 Camera position: -1710.291260 -2241.125732 1183.102051
+10/03 14:52:53 Camera position: -1708.070923 -2238.662354 1183.102051
+10/03 14:52:53 Camera position: -1705.138672 -2236.555420 1183.102051
+10/03 14:52:53 Camera position: -1702.948975 -2235.564209 1183.102051
+10/03 14:52:53 Camera position: -1700.795288 -2235.120117 1183.102051
+10/03 14:52:53 Camera position: -1698.871216 -2235.085693 1183.102051
+10/03 14:52:53 Camera position: -1696.306763 -2235.588135 1183.102051
+10/03 14:52:53 Camera position: -1694.514282 -2236.250244 1183.102051
+10/03 14:52:53 Camera position: -1692.642090 -2237.386475 1183.102051
+10/03 14:52:53 Camera position: -1690.300049 -2239.311523 1183.102051
+10/03 14:52:53 Camera position: -1688.384644 -2241.429199 1183.102051
+10/03 14:52:53 Camera position: -1686.672241 -2243.624268 1183.102051
+10/03 14:52:54 Camera position: -1684.856567 -2246.267090 1183.102051
+10/03 14:52:54 Camera position: -1682.434937 -2250.156738 1183.102051
+10/03 14:52:54 Camera position: -1680.340576 -2253.906738 1183.102051
+10/03 14:52:54 Camera position: -1678.254761 -2257.889404 1183.102051
+10/03 14:52:54 Camera position: -1675.980469 -2262.977051 1183.102051
+10/03 14:52:54 Camera position: -1673.110107 -2270.204590 1183.102051
+10/03 14:52:54 Camera position: -1670.382935 -2277.730713 1183.102051
+10/03 14:52:54 Camera position: -1667.496948 -2286.082764 1183.102051
+10/03 14:52:54 Camera position: -1664.119263 -2297.027832 1183.102051
+10/03 14:52:54 Camera position: -1660.540039 -2309.488770 1179.987061
+10/03 14:52:54 Camera position: -1655.780273 -2327.402344 1177.409302
+10/03 14:52:54 Camera position: -1652.238647 -2341.315186 1175.373047
+10/03 14:52:54 Camera position: -1648.080566 -2357.640869 1173.226563
+10/03 14:52:54 Camera position: -1643.509399 -2375.434082 1169.468506
+10/03 14:52:54 Camera position: -1638.522217 -2392.946777 1167.582397
+10/03 14:52:54 Camera position: -1631.831299 -2414.718994 1165.234619
+10/03 14:52:54 Camera position: -1627.425903 -2428.506592 1164.751465
+10/03 14:52:54 Camera position: -1624.171509 -2438.184570 1164.751465
+10/03 14:52:54 Camera position: -1616.555908 -2453.859131 1164.310181
+10/03 14:52:54 Camera position: -1609.350830 -2466.228760 1164.310181
+10/03 14:52:54 Camera position: -1602.137207 -2476.411133 1164.310181
+10/03 14:52:54 Camera position: -1596.173828 -2483.421631 1164.310181
+10/03 14:52:54 Camera position: -1586.475952 -2492.385254 1164.310181
+10/03 14:52:54 Camera position: -1579.827148 -2497.229980 1164.310181
+10/03 14:52:54 Camera position: -1573.748169 -2500.675781 1164.310181
+10/03 14:52:54 Camera position: -1564.225220 -2504.843018 1164.310181
+10/03 14:52:54 Camera position: -1557.028320 -2507.003418 1164.310181
+10/03 14:52:54 Camera position: -1550.222046 -2508.561523 1164.310181
+10/03 14:52:54 Camera position: -1543.497070 -2509.533691 1164.310181
+10/03 14:52:54 Camera position: -1535.890503 -2510.172363 1164.310181
+10/03 14:52:55 Camera position: -1528.719971 -2510.160400 1164.310181
+10/03 14:52:55 Camera position: -1518.799561 -2509.226074 1164.310181
+10/03 14:52:55 Camera position: -1511.649048 -2508.022949 1164.310181
+10/03 14:52:55 Camera position: -1505.118530 -2506.656250 1164.310181
+10/03 14:52:55 Camera position: -1498.434082 -2505.143066 1164.310181
+10/03 14:52:55 Camera position: -1492.003296 -2503.628906 1164.310181
+10/03 14:52:55 Camera position: -1486.460571 -2502.183594 1164.310181
+10/03 14:52:55 Camera position: -1481.482422 -2500.695313 1164.310181
+10/03 14:52:55 Camera position: -1477.166626 -2498.643066 1164.310181
+10/03 14:52:55 Camera position: -1475.045288 -2496.651611 1164.310181
+10/03 14:52:55 Camera position: -1473.885010 -2494.302246 1164.310181
+10/03 14:52:55 Camera position: -1473.397949 -2491.500732 1164.310181
+10/03 14:52:55 Camera position: -1473.348877 -2487.913574 1164.310181
+10/03 14:52:55 Camera position: -1473.554565 -2484.914551 1164.310181
+10/03 14:52:55 Camera position: -1473.880249 -2481.988037 1164.310181
+10/03 14:52:55 Camera position: -1474.282349 -2478.971191 1164.310181
+10/03 14:52:55 Camera position: -1474.693848 -2475.536377 1164.310181
+10/03 14:52:55 Camera position: -1475.148193 -2471.006836 1164.310181
+10/03 14:52:55 Camera position: -1475.521240 -2465.541260 1164.310181
+10/03 14:52:55 Camera position: -1475.733887 -2459.147461 1164.310181
+10/03 14:52:55 Camera position: -1475.929199 -2452.933594 1164.310181
+10/03 14:52:55 Camera position: -1476.256470 -2446.186035 1164.310181
+10/03 14:52:55 Camera position: -1476.752686 -2437.841797 1164.310181
+10/03 14:52:55 Camera position: -1477.215088 -2430.745605 1164.310181
+10/03 14:52:55 Camera position: -1477.542725 -2423.396729 1164.310181
+10/03 14:52:55 Camera position: -1477.738403 -2414.621094 1164.310181
+10/03 14:52:55 Camera position: -1477.937500 -2405.754883 1164.310181
+10/03 14:52:55 Camera position: -1478.247559 -2397.533936 1164.310181
+10/03 14:52:55 Camera position: -1478.560181 -2389.628906 1164.310181
+10/03 14:52:55 Camera position: -1478.785156 -2379.502930 1164.310181
+10/03 14:52:56 Camera position: -1478.964844 -2371.958984 1164.310181
+10/03 14:52:56 Camera position: -1479.284058 -2363.723633 1164.310181
+10/03 14:52:56 Camera position: -1479.580444 -2356.235107 1164.310181
+10/03 14:52:56 Camera position: -1479.768799 -2348.476318 1164.310181
+10/03 14:52:56 Camera position: -1479.865234 -2341.588379 1164.310181
+10/03 14:52:56 Camera position: -1479.926270 -2333.982910 1164.310181
+10/03 14:52:56 Camera position: -1480.007690 -2326.887451 1164.310181
+10/03 14:52:56 Camera position: -1480.267090 -2318.351318 1164.310181
+10/03 14:52:56 Camera position: -1480.633179 -2307.709717 1164.310181
+10/03 14:52:56 Camera position: -1480.787720 -2300.487061 1164.310181
+10/03 14:52:56 Camera position: -1480.878906 -2292.498779 1164.310181
+10/03 14:52:56 Camera position: -1480.932007 -2283.261230 1164.310181
+10/03 14:52:56 Camera position: -1481.005615 -2274.188232 1164.310181
+10/03 14:52:56 Camera position: -1481.325928 -2261.716064 1164.310181
+10/03 14:52:56 Camera position: -1481.599854 -2252.409912 1164.310181
+10/03 14:52:56 Camera position: -1481.774414 -2242.475342 1164.310181
+10/03 14:52:56 Camera position: -1481.873291 -2232.681641 1164.310181
+10/03 14:52:56 Camera position: -1482.000000 -2214.549316 1155.936035
+10/03 14:52:56 Camera position: -1482.000000 -2208.752930 1155.936035
+10/03 14:52:56 Camera position: -1482.000000 -2198.736328 1155.936035
+10/03 14:52:56 Camera position: -1482.020508 -2187.189697 1155.936035
+10/03 14:52:56 Camera position: -1482.203369 -2176.057373 1155.936035
+10/03 14:52:56 Camera position: -1482.563232 -2161.846680 1155.936035
+10/03 14:52:56 Camera position: -1482.749512 -2151.143555 1155.936035
+10/03 14:52:56 Camera position: -1482.852539 -2141.337402 1155.936035
+10/03 14:52:56 Camera position: -1482.917114 -2130.923828 1155.936035
+10/03 14:52:56 Camera position: -1482.958374 -2118.445557 1155.936035
+10/03 14:52:56 Camera position: -1482.975952 -2108.988281 1155.936035
+10/03 14:52:56 Camera position: -1482.986328 -2099.582520 1155.936035
+10/03 14:52:57 Camera position: -1482.992310 -2090.737793 1155.936035
+10/03 14:52:57 Camera position: -1482.995483 -2082.787598 1155.936035
+10/03 14:52:57 Camera position: -1482.997437 -2073.805664 1155.936035
+10/03 14:52:57 Camera position: -1482.998779 -2061.664551 1155.936035
+10/03 14:52:57 Camera position: -1482.999512 -2042.540527 1154.860229
+10/03 14:52:57 Camera position: -1482.999634 -2033.848389 1154.402954
+10/03 14:52:57 Camera position: -1482.999756 -2023.206055 1153.752075
+10/03 14:52:57 Camera position: -1482.999756 -2009.103027 1153.496582
+10/03 14:52:57 Camera position: -1482.999756 -1995.540771 1153.496582
+10/03 14:52:57 Camera position: -1482.999756 -1986.650391 1153.496582
+10/03 14:52:57 Camera position: -1482.999878 -1971.209961 1153.496582
+10/03 14:52:57 Camera position: -1483.022095 -1959.964355 1153.496582
+10/03 14:52:57 Camera position: -1483.225586 -1949.403809 1153.496582
+10/03 14:52:57 Camera position: -1485.977051 -1936.685303 1153.101807
+10/03 14:52:57 Camera position: -1580.906250 -1804.553223 1152.024902
+10/03 14:52:57 Camera position: -1716.592773 -1623.659424 1151.009888
+10/03 14:52:57 Camera position: -2012.831299 -1236.270630 1149.942261
+10/03 14:52:57 Camera position: -2335.579590 -816.678467 1149.336182
+10/03 14:52:57 Camera position: -2765.245117 -259.188782 1152.254395
+10/03 14:52:57 Camera position: -3205.393555 311.204407 1155.093750
+10/03 14:52:57 Camera position: -3417.610840 586.252258 1156.103760
+10/03 14:52:57 Camera position: -3739.325439 1003.257874 1152.350098
+10/03 14:52:57 Camera position: -3975.236084 1309.099609 1147.719482
+10/03 14:52:57 Camera position: -4299.727539 1729.847412 1142.388428
+10/03 14:52:57 Camera position: -4466.929199 1946.512939 1137.126343
+10/03 14:52:57 Camera position: -4515.166504 2008.961670 1135.850708
+10/03 14:52:57 Camera position: -4650.113770 2183.891357 1132.616211
+10/03 14:52:57 Camera position: -4736.937500 2296.662109 1130.865601
+10/03 14:52:57 Camera position: -4790.975098 2366.710449 1132.092529
+10/03 14:52:57 Camera position: -4831.136230 2418.613770 1132.929443
+10/03 14:52:58 Camera position: -4881.425293 2483.515625 1133.876099
+10/03 14:52:58 Camera position: -4907.412109 2517.038330 1134.849243
+10/03 14:52:58 Camera position: -4930.081055 2546.810547 1136.559570
+10/03 14:52:58 Camera position: -4954.019043 2579.382568 1138.194580
+10/03 14:52:58 Camera position: -4965.630859 2596.194336 1139.045166
+10/03 14:52:58 Camera position: -4978.489746 2616.263916 1139.477661
+10/03 14:52:58 Camera position: -4984.754883 2630.208496 1139.831909
+10/03 14:52:58 Camera position: -4989.378906 2649.564209 1140.172974
+10/03 14:52:58 Camera position: -4990.552246 2663.514648 1140.705811
+10/03 14:52:58 Camera position: -4989.702148 2681.358887 1141.204346
+10/03 14:52:58 Camera position: -4986.438477 2693.897461 1141.204346
+10/03 14:52:58 Camera position: -4980.652832 2709.083984 1141.585083
+10/03 14:52:58 Camera position: -4971.038086 2729.331299 1142.097168
+10/03 14:52:58 Camera position: -4961.545898 2746.910400 1142.684814
+10/03 14:52:58 Camera position: -4951.513184 2764.049316 1143.090698
+10/03 14:52:58 Camera position: -4940.954102 2780.931152 1143.316406
+10/03 14:52:58 Camera position: -4928.302246 2800.084229 1143.403931
+10/03 14:52:58 Camera position: -4914.392578 2820.103516 1143.529053
+10/03 14:52:58 Camera position: -4903.104980 2835.715088 1143.655762
+10/03 14:52:58 Camera position: -4891.367676 2851.435791 1143.769531
+10/03 14:52:58 Camera position: -4880.833496 2865.320068 1143.742065
+10/03 14:52:58 Camera position: -4870.991699 2878.212891 1143.713745
+10/03 14:52:58 Camera position: -4860.504395 2891.762695 1143.713745
+10/03 14:52:58 Camera position: -4851.961426 2902.552246 1143.713745
+10/03 14:52:58 Camera position: -4842.473633 2914.456299 1143.713745
+10/03 14:52:58 Camera position: -4834.678223 2924.326660 1143.713745
+10/03 14:52:58 Camera position: -4826.592773 2934.359131 1143.713745
+10/03 14:52:58 Camera position: -4820.041016 2942.060059 1143.713745
+10/03 14:52:58 Camera position: -4813.678223 2949.218262 1143.713745
+10/03 14:52:58 Camera position: -4806.235840 2957.198486 1143.713745
+10/03 14:52:59 Camera position: -4800.652832 2962.868896 1143.713745
+10/03 14:52:59 Camera position: -4793.735840 2969.349854 1143.713745
+10/03 14:52:59 Camera position: -4788.717773 2973.779053 1143.713745
+10/03 14:52:59 Camera position: -4784.208496 2977.594482 1143.713745
+10/03 14:52:59 Camera position: -4779.323730 2981.517822 1143.713745
+10/03 14:52:59 Camera position: -4775.780273 2983.999023 1143.713745
+10/03 14:52:59 Camera position: -4773.826172 2985.116211 1143.713745
+10/03 14:52:59 Camera position: -4772.471191 2985.622559 1143.713745
+10/03 14:52:59 Camera position: -4771.208496 2985.816895 1143.713745
+10/03 14:52:59 Camera position: -4770.424316 2985.895020 1143.713745
+10/03 14:52:59 Camera position: -4769.801270 2985.937988 1143.713745
+10/03 14:52:59 Camera position: -4769.094727 2985.968506 1143.713745
+10/03 14:52:59 Camera position: -4768.609863 2985.980957 1143.713745
+10/03 14:52:59 Camera position: -4768.137207 2985.988770 1143.713745
+10/03 14:52:59 Camera position: -4767.597656 2985.994141 1143.713745
+10/03 14:52:59 Camera position: -4767.371094 2985.996338 1143.713745
+10/03 14:52:59 Camera position: -4767.637695 2985.606445 1143.713745
+10/03 14:52:59 Camera position: -4769.187500 2984.185547 1143.713745
+10/03 14:52:59 Camera position: -4772.479980 2981.277100 1143.713745
+10/03 14:52:59 Camera position: -4776.624023 2977.709717 1143.713745
+10/03 14:52:59 Camera position: -4781.425293 2973.647705 1143.713745
+10/03 14:52:59 Camera position: -4787.659180 2968.691162 1143.713745
+10/03 14:52:59 Camera position: -4792.434082 2965.058105 1143.713745
+10/03 14:52:59 Camera position: -4800.218750 2959.357910 1143.713745
+10/03 14:52:59 Camera position: -4807.325684 2954.249023 1143.713745
+10/03 14:52:59 Camera position: -4814.076660 2949.434814 1143.713745
+10/03 14:52:59 Camera position: -4823.006836 2943.126221 1143.713745
+10/03 14:52:59 Camera position: -4829.942383 2938.381104 1143.713745
+10/03 14:52:59 Camera position: -4838.028809 2932.954346 1143.713745
+10/03 14:52:59 Camera position: -4844.433594 2928.562256 1143.713745
+10/03 14:52:59 Camera position: -4852.196777 2923.130371 1143.713745
+10/03 14:53:00 Camera position: -4858.279785 2918.763672 1143.713745
+10/03 14:53:00 Camera position: -4865.337891 2913.532959 1143.713745
+10/03 14:53:00 Camera position: -4870.914063 2909.029541 1143.713745
+10/03 14:53:00 Camera position: -4877.546875 2903.226563 1143.713745
+10/03 14:53:00 Camera position: -4882.878906 2897.767334 1143.713745
+10/03 14:53:00 Camera position: -4887.508301 2892.543457 1143.713745
+10/03 14:53:00 Camera position: -4893.395508 2885.651367 1143.713745
+10/03 14:53:00 Camera position: -4897.465332 2880.779053 1143.713745
+10/03 14:53:00 Camera position: -4901.866699 2875.256348 1143.713745
+10/03 14:53:00 Camera position: -4906.335449 2869.455322 1143.713745
+10/03 14:53:00 Camera position: -4909.422363 2865.628418 1143.713745
+10/03 14:53:00 Camera position: -4912.668457 2861.806641 1143.713745
+10/03 14:53:00 Camera position: -4916.161133 2857.491699 1143.713745
+10/03 14:53:00 Camera position: -4919.698730 2853.016846 1143.713745
+10/03 14:53:00 Camera position: -4924.109375 2847.591797 1143.713745
+10/03 14:53:00 Camera position: -4928.222656 2842.649658 1143.713745
+10/03 14:53:00 Camera position: -4931.040039 2839.117188 1143.713745
+10/03 14:53:00 Camera position: -4933.587402 2835.800293 1143.713745
+10/03 14:53:00 Camera position: -4936.726074 2831.990723 1143.713745
+10/03 14:53:00 Camera position: -4939.145996 2829.272705 1143.713745
+10/03 14:53:00 Camera position: -4941.109375 2827.131348 1143.713745
+10/03 14:53:00 Camera position: -4942.875977 2825.331299 1143.713745
+10/03 14:53:00 Camera position: -4943.214355 2825.759766 1143.713745
+10/03 14:53:00 Camera position: -4942.715332 2827.939453 1143.713745
+10/03 14:53:00 Camera position: -4941.811523 2829.904785 1143.713745
+10/03 14:53:00 Camera position: -4940.171875 2832.605225 1143.713745
+10/03 14:53:00 Camera position: -4938.776855 2834.837646 1143.713745
+10/03 14:53:00 Camera position: -4937.000977 2837.720703 1143.713745
+10/03 14:53:00 Camera position: -4935.513672 2840.062256 1143.713745
+10/03 14:53:00 Camera position: -4933.583984 2843.018555 1143.713745
+10/03 14:53:01 Camera position: -4931.832520 2845.520508 1143.713745
+10/03 14:53:01 Camera position: -4930.255371 2847.655762 1143.713745
+10/03 14:53:01 Camera position: -4928.062500 2850.581787 1143.713745
+10/03 14:53:01 Camera position: -4926.742188 2852.342529 1143.713745
+10/03 14:53:01 Camera position: -4925.000977 2854.724854 1143.713745
+10/03 14:53:01 Camera position: -4923.985840 2856.162109 1143.713745
+10/03 14:53:01 Camera position: -4922.454102 2858.299316 1143.713745
+10/03 14:53:01 Camera position: -4921.298828 2859.876221 1143.713745
+10/03 14:53:01 Camera position: -4919.233398 2862.765137 1143.713745
+10/03 14:53:01 Camera position: -4917.120605 2865.818848 1143.713745
+10/03 14:53:01 Camera position: -4916.078125 2867.483398 1143.713745
+10/03 14:53:01 Camera position: -4913.454102 2871.525391 1143.713745
+10/03 14:53:01 Camera position: -4910.238770 2876.288086 1143.713745
+10/03 14:53:01 Camera position: -4907.098633 2881.005127 1143.713745
+10/03 14:53:01 Camera position: -4899.882324 2887.887695 1143.713745
+10/03 14:53:01 Camera position: -4819.117188 2800.117432 1143.640503
+10/03 14:53:01 Camera position: -4581.660645 2526.993896 1143.172485
+10/03 14:53:01 Camera position: -4335.458496 2239.303955 1142.937866
+10/03 14:53:01 Camera position: -3978.157471 1819.161865 1139.438110
+10/03 14:53:01 Camera position: -3481.397949 1233.382568 1127.872437
+10/03 14:53:01 Camera position: -3165.831543 860.701599 1122.630615
+10/03 14:53:01 Camera position: -2683.798584 290.747986 1118.589844
+10/03 14:53:01 Camera position: -2367.050537 -84.249146 1120.088989
+10/03 14:53:01 Camera position: -2098.358643 -402.551636 1121.174438
+10/03 14:53:01 Camera position: -1891.461304 -647.739624 1121.198120
+10/03 14:53:01 Camera position: -1688.636353 -888.057251 1119.721680
+10/03 14:53:01 Camera position: -1550.938721 -1051.053101 1118.807861
+10/03 14:53:01 Camera position: -1451.260376 -1169.049316 1118.215332
+10/03 14:53:01 Camera position: -1364.899170 -1271.413574 1120.951416
+10/03 14:53:02 Camera position: -1281.783691 -1369.857422 1123.258423
+10/03 14:53:02 Camera position: -1230.312012 -1430.527466 1125.245728
+10/03 14:53:02 Camera position: -1190.910156 -1477.001709 1128.066040
+10/03 14:53:02 Camera position: -1160.290161 -1513.429199 1130.088623
+10/03 14:53:02 Camera position: -1130.191650 -1549.378174 1131.954956
+10/03 14:53:02 Camera position: -1110.902100 -1572.274780 1133.283569
+10/03 14:53:02 Camera position: -1096.828857 -1588.896484 1133.898804
+10/03 14:53:02 Camera position: -1084.093384 -1603.886353 1134.240479
+10/03 14:53:02 Camera position: -1071.625244 -1618.500000 1134.240479
+10/03 14:53:02 Camera position: -1063.265503 -1628.247803 1134.240479
+10/03 14:53:02 Camera position: -1056.174438 -1636.168457 1134.240479
+10/03 14:53:02 Camera position: -1049.841064 -1642.387207 1134.240479
+10/03 14:53:02 Camera position: -1042.797974 -1647.915283 1134.240479
+10/03 14:53:02 Camera position: -1036.952637 -1651.072754 1134.240479
+10/03 14:53:02 Camera position: -1031.355835 -1653.062012 1134.240479
+10/03 14:53:02 Camera position: -1025.519531 -1654.049561 1134.240479
+10/03 14:53:02 Camera position: -1019.136963 -1653.994873 1134.240479
+10/03 14:53:02 Camera position: -1010.394287 -1652.534668 1134.240479
+10/03 14:53:02 Camera position: -1000.334900 -1650.420166 1134.240479
+10/03 14:53:02 Camera position: -988.340027 -1648.241455 1134.240479
+10/03 14:53:02 Camera position: -976.602966 -1646.227051 1134.240479
+10/03 14:53:02 Camera position: -962.968750 -1643.719727 1134.564819
+10/03 14:53:02 Camera position: -948.953247 -1641.032227 1134.880493
+10/03 14:53:02 Camera position: -936.569519 -1638.574463 1134.880493
+10/03 14:53:02 Camera position: -926.312378 -1636.508545 1134.880493
+10/03 14:53:02 Camera position: -917.216248 -1634.717773 1134.880493
+10/03 14:53:02 Camera position: -909.009705 -1633.120117 1134.880493
+10/03 14:53:02 Camera position: -900.792053 -1631.467041 1134.880493
+10/03 14:53:02 Camera position: -893.059021 -1629.874756 1134.880493
+10/03 14:53:02 Camera position: -886.369141 -1628.509521 1134.880493
+10/03 14:53:03 Camera position: -880.492493 -1627.845215 1134.880493
+10/03 14:53:03 Camera position: -873.693176 -1629.763672 1134.880493
+10/03 14:53:03 Camera position: -867.212280 -1633.484619 1134.880493
+10/03 14:53:03 Camera position: -857.514771 -1640.906006 1134.880493
+10/03 14:53:03 Camera position: -846.299744 -1650.227051 1134.880493
+10/03 14:53:03 Camera position: -834.185303 -1660.403076 1135.196533
+10/03 14:53:03 Camera position: -818.608154 -1673.549805 1135.196533
+10/03 14:53:03 Camera position: -806.092896 -1684.187012 1135.196533
+10/03 14:53:03 Camera position: -794.048767 -1694.436279 1135.196533
+10/03 14:53:03 Camera position: -781.667969 -1704.837158 1135.196533
+10/03 14:53:03 Camera position: -770.714844 -1713.964111 1135.196533
+10/03 14:53:03 Camera position: -760.314636 -1722.774658 1135.196533
+10/03 14:53:03 Camera position: -750.899231 -1730.860352 1135.196533
+10/03 14:53:03 Camera position: -741.973511 -1738.388428 1135.982056
+10/03 14:53:03 Camera position: -734.447449 -1744.589111 1135.982056
+10/03 14:53:03 Camera position: -724.764038 -1752.465576 1135.982056
+10/03 14:53:03 Camera position: -717.342163 -1758.481689 1135.982056
+10/03 14:53:03 Camera position: -711.191833 -1763.604980 1135.982056
+10/03 14:53:03 Camera position: -706.002441 -1768.017578 1135.982056
+10/03 14:53:03 Camera position: -700.499878 -1772.666748 1135.982056
+10/03 14:53:03 Camera position: -695.136658 -1777.093506 1135.982056
+10/03 14:53:03 Camera position: -690.297974 -1780.098389 1135.982056
+10/03 14:53:03 Camera position: -686.237000 -1781.731201 1135.982056
+10/03 14:53:03 Camera position: -682.074097 -1782.416504 1135.982056
+10/03 14:53:03 Camera position: -678.489502 -1782.239990 1135.982056
+10/03 14:53:03 Camera position: -674.389221 -1777.673340 1135.982056
+10/03 14:53:03 Camera position: -671.609985 -1771.718750 1135.982056
+10/03 14:53:03 Camera position: -668.752319 -1764.285156 1135.982056
+10/03 14:53:03 Camera position: -666.477173 -1757.853760 1135.982056
+10/03 14:53:03 Camera position: -663.502930 -1748.131348 1135.982056
+10/03 14:53:03 Camera position: -661.025696 -1739.059570 1135.982056
+10/03 14:53:04 Camera position: -657.248535 -1724.973633 1135.982056
+10/03 14:53:04 Camera position: -654.108276 -1713.455078 1135.982056
+10/03 14:53:04 Camera position: -650.524841 -1701.563232 1135.982056
+10/03 14:53:04 Camera position: -646.748230 -1689.861816 1135.982056
+10/03 14:53:04 Camera position: -642.385010 -1677.787109 1135.982056
+10/03 14:53:04 Camera position: -637.914612 -1666.396484 1135.982056
+10/03 14:53:04 Camera position: -633.756714 -1656.389648 1135.982056
+10/03 14:53:04 Camera position: -628.996765 -1645.341064 1135.982056
+10/03 14:53:04 Camera position: -624.039307 -1634.268799 1135.982056
+10/03 14:53:04 Camera position: -617.092834 -1619.364746 1135.982056
+10/03 14:53:04 Camera position: -611.241089 -1608.126709 1135.982056
+10/03 14:53:04 Camera position: -605.201050 -1597.323242 1135.982056
+10/03 14:53:04 Camera position: -598.955872 -1586.605103 1135.982056
+10/03 14:53:04 Camera position: -592.822205 -1576.345093 1135.982056
+10/03 14:53:04 Camera position: -587.425781 -1567.492432 1135.982056
+10/03 14:53:04 Camera position: -581.402588 -1557.744995 1135.982056
+10/03 14:53:04 Camera position: -575.486389 -1548.669556 1135.982056
+10/03 14:53:04 Camera position: -567.188477 -1536.864868 1135.982056
+10/03 14:53:04 Camera position: -561.138184 -1528.876831 1135.982056
+10/03 14:53:04 Camera position: -555.992676 -1522.407837 1135.982056
+10/03 14:53:04 Camera position: -550.540344 -1515.689453 1135.982056
+10/03 14:53:04 Camera position: -545.501465 -1509.542725 1135.982056
+10/03 14:53:04 Camera position: -539.237000 -1501.617920 1135.982056
+10/03 14:53:04 Camera position: -535.442444 -1496.470947 1135.982056
+10/03 14:53:04 Camera position: -532.716431 -1492.654785 1135.982056
+10/03 14:53:04 Camera position: -530.130859 -1488.957397 1135.982056
+10/03 14:53:04 Camera position: -528.673889 -1485.665527 1135.982056
+10/03 14:53:04 Camera position: -528.177124 -1482.253052 1135.982056
+10/03 14:53:04 Camera position: -528.391174 -1479.060791 1135.982056
+10/03 14:53:04 Camera position: -529.388306 -1475.109619 1135.982056
+10/03 14:53:05 Camera position: -530.419678 -1472.272461 1135.982056
+10/03 14:53:05 Camera position: -531.710266 -1469.195313 1135.982056
+10/03 14:53:05 Camera position: -532.886719 -1466.367676 1135.982056
+10/03 14:53:05 Camera position: -533.994934 -1463.462158 1135.982056
+10/03 14:53:05 Camera position: -535.065735 -1460.805908 1135.982056
+10/03 14:53:05 Camera position: -536.642822 -1457.553101 1135.982056
+10/03 14:53:05 Camera position: -537.822327 -1455.052979 1135.982056
+10/03 14:53:05 Camera position: -538.937744 -1452.339600 1135.982056
+10/03 14:53:05 Camera position: -541.788452 -1446.103516 1135.982056
+10/03 14:53:05 Camera position: -542.353027 -1445.294922 1135.982056
+10/03 14:53:05 Camera position: -544.692505 -1442.028809 1135.982056
+10/03 14:53:05 Camera position: -547.578491 -1438.702026 1135.982056
+10/03 14:53:05 Camera position: -551.801575 -1434.822021 1135.982056
+10/03 14:53:05 Camera position: -556.504517 -1430.895020 1135.982056
+10/03 14:53:05 Camera position: -561.863647 -1426.587646 1135.982056
+10/03 14:53:05 Camera position: -568.986145 -1420.928711 1135.982056
+10/03 14:53:05 Camera position: -574.297729 -1416.655518 1135.982056
+10/03 14:53:05 Camera position: -579.245850 -1412.696533 1135.982056
+10/03 14:53:05 Camera position: -585.004517 -1408.209717 1135.982056
+10/03 14:53:05 Camera position: -591.909912 -1402.971680 1135.982056
+10/03 14:53:05 Camera position: -596.916382 -1399.296753 1135.982056
+10/03 14:53:05 Camera position: -601.522278 -1395.933594 1135.982056
+10/03 14:53:05 Camera position: -607.600647 -1391.395142 1135.982056
+10/03 14:53:05 Camera position: -611.142517 -1388.690430 1135.982056
+10/03 14:53:05 Camera position: -616.974670 -1384.201416 1135.982056
+10/03 14:53:05 Camera position: -620.062012 -1381.837402 1135.982056
+10/03 14:53:05 Camera position: -624.441040 -1378.562256 1135.982056
+10/03 14:53:05 Camera position: -628.101379 -1375.861084 1135.982056
+10/03 14:53:05 Camera position: -632.150452 -1372.806396 1135.982056
+10/03 14:53:06 Camera position: -658.447693 -1342.641602 1134.954102
+10/03 14:53:06 Camera position: -769.579468 -1209.912964 1133.705811
+10/03 14:53:06 Camera position: -948.452698 -995.130798 1132.870361
+10/03 14:53:06 Camera position: -1366.071411 -492.159607 1126.859863
+10/03 14:53:06 Camera position: -1772.425903 -2.419800 1122.520508
+10/03 14:53:06 Camera position: -2261.015625 586.469666 1118.909546
+10/03 14:53:06 Camera position: -2634.984375 1037.284424 1108.838867
+10/03 14:53:06 Camera position: -3088.622559 1584.477539 1099.258057
+10/03 14:53:06 Camera position: -3381.316650 1937.634766 1094.389038
+10/03 14:53:06 Camera position: -3635.093994 2243.718262 1094.559082
+10/03 14:53:06 Camera position: -3877.702393 2536.243408 1094.699341
+10/03 14:53:06 Camera position: -4080.276123 2780.615967 1094.803711
+10/03 14:53:06 Camera position: -4201.124023 2926.452637 1103.120605
+10/03 14:53:06 Camera position: -4325.103516 3076.019531 1111.107056
+10/03 14:53:06 Camera position: -4402.612305 3169.476807 1115.562500
+10/03 14:53:06 Camera position: -4459.756836 3238.308594 1122.082397
+10/03 14:53:06 Camera position: -4519.219238 3309.861816 1129.392700
+10/03 14:53:06 Camera position: -4562.474609 3361.918701 1134.279785
+10/03 14:53:06 Camera position: -4587.630859 3392.241943 1138.578247
+10/03 14:53:06 Camera position: -4614.778809 3425.298096 1142.906494
+10/03 14:53:06 Camera position: -4629.381348 3443.250732 1144.966187
+10/03 14:53:06 Camera position: -4646.565918 3464.413818 1147.297119
+10/03 14:53:06 Camera position: -4658.687500 3479.600342 1147.297119
+10/03 14:53:06 Camera position: -4666.208496 3489.906738 1147.297119
+10/03 14:53:06 Camera position: -4673.675293 3501.140137 1147.297119
+10/03 14:53:06 Camera position: -4679.239746 3510.790039 1147.297119
+10/03 14:53:06 Camera position: -4682.807617 3517.908203 1147.297119
+10/03 14:53:06 Camera position: -4685.383301 3524.202637 1147.297119
+10/03 14:53:06 Camera position: -4687.860840 3531.761719 1147.297119
+10/03 14:53:06 Camera position: -4689.105957 3539.021973 1147.297119
+10/03 14:53:06 Camera position: -4689.488770 3545.672852 1147.297119
+10/03 14:53:07 Camera position: -4689.491211 3551.070313 1147.297119
+10/03 14:53:07 Camera position: -4689.060059 3558.586426 1147.297119
+10/03 14:53:07 Camera position: -4687.785645 3566.021973 1147.297119
+10/03 14:53:07 Camera position: -4685.203613 3577.630859 1147.297119
+10/03 14:53:07 Camera position: -4682.161621 3589.555176 1148.667725
+10/03 14:53:07 Camera position: -4677.749023 3605.895020 1148.667725
+10/03 14:53:07 Camera position: -4673.882324 3620.083984 1150.018311
+10/03 14:53:07 Camera position: -4669.114746 3637.459473 1150.018311
+10/03 14:53:07 Camera position: -4664.340820 3653.802734 1152.052612
+10/03 14:53:07 Camera position: -4656.272461 3680.418945 1155.354736
+10/03 14:53:07 Camera position: -4648.437988 3706.366211 1157.486938
+10/03 14:53:07 Camera position: -4642.988770 3724.576660 1158.452759
+10/03 14:53:07 Camera position: -4636.334473 3746.816895 1159.751709
+10/03 14:53:07 Camera position: -4631.965820 3761.384766 1160.101685
+10/03 14:53:07 Camera position: -4626.788086 3777.824219 1160.101685
+10/03 14:53:07 Camera position: -4623.068848 3788.975586 1160.101685
+10/03 14:53:07 Camera position: -4618.688477 3800.583496 1160.101685
+10/03 14:53:07 Camera position: -4615.673828 3807.740723 1160.101685
+10/03 14:53:07 Camera position: -4611.906250 3815.242676 1160.101685
+10/03 14:53:07 Camera position: -4609.347656 3819.512207 1160.101685
+10/03 14:53:07 Camera position: -4606.118164 3823.093262 1160.101685
+10/03 14:53:07 Camera position: -4603.452637 3824.101563 1160.101685
+10/03 14:53:07 Camera position: -4601.479492 3823.761230 1160.101685
+10/03 14:53:07 Camera position: -4599.113770 3822.801270 1160.101685
+10/03 14:53:07 Camera position: -4596.052246 3820.265625 1160.101685
+10/03 14:53:07 Camera position: -4594.544922 3818.734375 1160.101685
+10/03 14:53:07 Camera position: -4592.566895 3816.538086 1160.101685
+10/03 14:53:07 Camera position: -4590.823242 3814.457520 1160.101685
+10/03 14:53:07 Camera position: -4588.835938 3812.145020 1160.101685
+10/03 14:53:07 Camera position: -4587.602539 3810.680664 1160.101685
+10/03 14:53:08 Camera position: -4600.979980 3781.118164 1161.858765
+10/03 14:53:08 Camera position: -4620.023438 3743.032715 1163.046753
+10/03 14:53:08 Camera position: -4683.462402 3623.115234 1163.685059
+10/03 14:53:08 Camera position: -4765.401855 3470.612549 1162.908447
+10/03 14:53:08 Camera position: -4890.575195 3238.760498 1162.215576
+10/03 14:53:08 Camera position: -5001.977051 3032.864258 1160.592529
+10/03 14:53:08 Camera position: -5150.349609 2758.979980 1155.991821
+10/03 14:53:08 Camera position: -5259.251953 2558.126221 1153.574341
+10/03 14:53:08 Camera position: -5360.592285 2371.306396 1152.405640
+10/03 14:53:08 Camera position: -5478.016113 2154.922852 1152.714600
+10/03 14:53:08 Camera position: -5581.010254 1965.041260 1152.926147
+10/03 14:53:08 Camera position: -5651.202148 1835.486816 1153.507568
+10/03 14:53:08 Camera position: -5711.179688 1722.675293 1154.894531
+10/03 14:53:08 Camera position: -5779.129395 1589.823242 1156.190796
+10/03 14:53:08 Camera position: -5822.304688 1502.907715 1156.998535
+10/03 14:53:08 Camera position: -5869.047363 1406.603516 1158.085815
+10/03 14:53:08 Camera position: -5900.239258 1341.234375 1158.689453
+10/03 14:53:08 Camera position: -5935.114258 1267.223389 1159.376709
+10/03 14:53:08 Camera position: -5957.299805 1219.822998 1160.045654
+10/03 14:53:08 Camera position: -5977.355469 1176.908936 1160.558594
+10/03 14:53:08 Camera position: -5998.620605 1131.480469 1161.252808
+10/03 14:53:08 Camera position: -6011.480469 1104.187988 1162.059082
+10/03 14:53:08 Camera position: -6026.168457 1072.932617 1162.828979
+10/03 14:53:08 Camera position: -6036.072754 1051.504639 1163.259888
+10/03 14:53:08 Camera position: -6046.757813 1028.329590 1164.302856
+10/03 14:53:08 Camera position: -6054.105469 1012.642639 1164.639893
+10/03 14:53:08 Camera position: -6062.593262 994.502502 1164.937622
+10/03 14:53:08 Camera position: -6068.332520 981.923279 1165.156128
+10/03 14:53:08 Camera position: -6073.519531 970.432678 1165.156128
+10/03 14:53:08 Camera position: -6078.687988 959.101501 1165.156128
+10/03 14:53:09 Camera position: -6083.276855 949.227966 1165.156128
+10/03 14:53:09 Camera position: -6086.858887 941.736267 1165.156128
+10/03 14:53:09 Camera position: -6089.855469 935.340149 1165.156128
+10/03 14:53:09 Camera position: -6093.148926 927.455383 1165.156128
+10/03 14:53:09 Camera position: -6095.230469 921.798645 1165.156128
+10/03 14:53:09 Camera position: -6097.802734 913.568420 1165.156128
+10/03 14:53:09 Camera position: -6099.583008 907.103943 1165.156128
+10/03 14:53:09 Camera position: -6101.641602 898.405945 1165.156128
+10/03 14:53:09 Camera position: -6103.060059 891.757141 1165.156128
+10/03 14:53:09 Camera position: -6104.925293 882.284729 1165.156128
+10/03 14:53:09 Camera position: -6106.250977 874.823792 1165.156128
+10/03 14:53:09 Camera position: -6107.413574 866.932190 1165.156128
+10/03 14:53:09 Camera position: -6108.743652 856.412537 1165.156128
+10/03 14:53:09 Camera position: -6109.685059 848.013977 1165.156128
+10/03 14:53:09 Camera position: -6110.841309 836.611389 1165.156128
+10/03 14:53:09 Camera position: -6111.530273 828.503967 1165.156128
+10/03 14:53:09 Camera position: -6112.342773 817.632629 1165.156128
+10/03 14:53:09 Camera position: -6113.059570 807.598572 1165.156128
+10/03 14:53:09 Camera position: -6114.038086 792.466003 1165.156128
+10/03 14:53:09 Camera position: -6114.638184 779.923645 1165.700562
+10/03 14:53:09 Camera position: -6115.190430 766.137878 1166.162109
+10/03 14:53:09 Camera position: -6115.818359 748.502258 1166.584839
+10/03 14:53:09 Camera position: -6116.425781 730.180847 1166.932617
+10/03 14:53:09 Camera position: -6116.872070 716.368103 1167.304932
+10/03 14:53:09 Camera position: -6117.437012 698.482849 1167.679932
+10/03 14:53:09 Camera position: -6117.888184 683.592468 1168.266846
+10/03 14:53:09 Camera position: -6118.447754 664.876526 1168.526733
+10/03 14:53:09 Camera position: -6118.900391 650.360168 1168.834961
+10/03 14:53:09 Camera position: -6119.332520 636.817810 1169.092773
+10/03 14:53:09 Camera position: -6119.819336 621.478088 1169.397095
+10/03 14:53:09 Camera position: -6120.357910 603.345032 1169.603638
+10/03 14:53:10 Camera position: -6120.611816 589.199890 1169.803467
+10/03 14:53:10 Camera position: -6120.795898 570.755432 1169.947632
+10/03 14:53:10 Camera position: -6120.876465 556.794983 1170.105713
+10/03 14:53:10 Camera position: -6120.936035 538.903137 1170.239258
+10/03 14:53:10 Camera position: -6120.961426 525.453308 1170.357910
+10/03 14:53:10 Camera position: -6120.956055 508.579041 1170.357910
+10/03 14:53:10 Camera position: -6120.797852 494.791321 1170.447021
+10/03 14:53:10 Camera position: -6120.452148 476.787659 1170.517822
+10/03 14:53:10 Camera position: -6120.099121 462.287048 1170.542847
+10/03 14:53:10 Camera position: -6119.598145 444.291077 1170.564087
+10/03 14:53:10 Camera position: -6119.169922 430.231506 1170.584229
+10/03 14:53:10 Camera position: -6118.714355 416.029663 1170.559204
+10/03 14:53:10 Camera position: -6118.139648 397.822754 1170.540283
+10/03 14:53:10 Camera position: -6117.703125 384.053284 1170.524170
+10/03 14:53:10 Camera position: -6116.906738 365.526672 1170.477783
+10/03 14:53:10 Camera position: -6116.204590 351.771912 1170.441406
+10/03 14:53:10 Camera position: -6115.381348 333.631409 1170.406494
+10/03 14:53:10 Camera position: -6114.869629 321.106506 1170.406494
+10/03 14:53:10 Camera position: -6114.011719 303.212463 1170.393311
+10/03 14:53:10 Camera position: -6113.299805 289.944519 1170.382446
+10/03 14:53:10 Camera position: -6112.270996 271.778076 1170.394409
+10/03 14:53:10 Camera position: -6111.463379 257.951172 1170.404663
+10/03 14:53:10 Camera position: -6110.379883 239.699768 1170.413452
+10/03 14:53:10 Camera position: -6109.317871 222.037476 1170.413452
+10/03 14:53:10 Camera position: -6108.425781 207.733582 1170.434814
+10/03 14:53:10 Camera position: -6107.622559 195.179504 1170.434814
+10/03 14:53:10 Camera position: -6106.498047 177.217896 1170.487427
+10/03 14:53:10 Camera position: -6105.399414 159.185181 1170.487427
+10/03 14:53:10 Camera position: -6104.517578 145.077209 1170.538696
+10/03 14:53:10 Camera position: -6103.343750 127.045715 1170.640991
+10/03 14:53:11 Camera position: -6102.316406 113.757385 1170.723145
+10/03 14:53:11 Camera position: -6100.870117 96.943115 1170.795166
+10/03 14:53:11 Camera position: -6099.458008 79.076355 1171.023071
+10/03 14:53:11 Camera position: -6098.778809 69.220642 1171.087524
+10/03 14:53:11 Camera position: -6097.301270 49.795166 1171.189209
+10/03 14:53:11 Camera position: -6096.229004 37.040710 1171.189209
+10/03 14:53:11 Camera position: -6094.724121 17.992004 1171.334961
+10/03 14:53:11 Camera position: -6093.750000 4.559143 1171.334961
+10/03 14:53:11 Camera position: -6092.757324 -7.891113 1171.334961
+10/03 14:53:11 Camera position: -6091.290527 -24.314331 1171.449463
+10/03 14:53:11 Camera position: -6089.763672 -42.893188 1171.557495
+10/03 14:53:11 Camera position: -6088.828125 -55.886780 1171.557495
+10/03 14:53:11 Camera position: -6087.769531 -69.681274 1171.686523
+10/03 14:53:11 Camera position: -6086.104980 -89.144012 1171.896973
+10/03 14:53:11 Camera position: -6085.105469 -101.323853 1171.896973
+10/03 14:53:11 Camera position: -6083.804688 -118.492889 1172.039551
+10/03 14:53:11 Camera position: -6082.792480 -130.970154 1172.039551
+10/03 14:53:11 Camera position: -6081.505371 -145.312500 1172.197754
+10/03 14:53:11 Camera position: -6079.984863 -161.395508 1172.197754
+10/03 14:53:11 Camera position: -6078.637695 -175.494873 1172.359985
+10/03 14:53:11 Camera position: -6075.422852 -213.395752 1173.057983
+10/03 14:53:11 Camera position: -6075.040039 -219.129333 1173.057983
+10/03 14:53:11 Camera position: -6073.615234 -235.025574 1173.131592
+10/03 14:53:11 Camera position: -6072.351563 -248.449707 1173.202026
+10/03 14:53:11 Camera position: -6070.531250 -267.550476 1173.272827
+10/03 14:53:11 Camera position: -6069.362793 -280.448029 1173.329834
+10/03 14:53:11 Camera position: -6068.262695 -293.619507 1173.388184
+10/03 14:53:11 Camera position: -6066.912598 -310.007477 1173.438965
+10/03 14:53:11 Camera position: -6065.750000 -323.302826 1173.484009
+10/03 14:53:12 Camera position: -6064.231445 -340.819214 1173.484009
+10/03 14:53:12 Camera position: -6063.117676 -354.686920 1173.517944
+10/03 14:53:12 Camera position: -6061.782715 -371.054260 1173.517944
+10/03 14:53:12 Camera position: -6060.556152 -384.923584 1173.568359
+10/03 14:53:12 Camera position: -6059.378906 -397.472351 1173.568359
+10/03 14:53:12 Camera position: -6057.734375 -413.777954 1173.568359
+10/03 14:53:12 Camera position: -6056.537109 -425.941101 1173.568359
+10/03 14:53:12 Camera position: -6055.128906 -442.681763 1173.568359
+10/03 14:53:12 Camera position: -6054.155273 -454.617737 1173.568359
+10/03 14:53:12 Camera position: -6052.608398 -471.644409 1173.568359
+10/03 14:53:12 Camera position: -6051.457031 -484.092041 1173.568359
+10/03 14:53:12 Camera position: -6050.357910 -496.963135 1173.622192
+10/03 14:53:12 Camera position: -6049.122070 -513.582581 1173.622192
+10/03 14:53:12 Camera position: -6048.395508 -526.672729 1173.622192
+10/03 14:53:12 Camera position: -6047.834473 -542.383484 1173.622192
+10/03 14:53:12 Camera position: -6047.756348 -555.672363 1173.622192
+10/03 14:53:12 Camera position: -6048.031250 -570.898499 1173.622192
+10/03 14:53:12 Camera position: -6048.524414 -582.621155 1173.622192
+10/03 14:53:12 Camera position: -6049.482910 -597.130676 1173.622192
+10/03 14:53:12 Camera position: -6050.706543 -609.473694 1173.622192
+10/03 14:53:12 Camera position: -6052.547852 -624.483154 1173.622192
+10/03 14:53:12 Camera position: -6054.385742 -637.219604 1173.896118
+10/03 14:53:12 Camera position: -6056.946289 -652.956421 1173.896118
+10/03 14:53:12 Camera position: -6059.211914 -665.056763 1173.896118
+10/03 14:53:12 Camera position: -6062.313477 -680.260498 1173.896118
+10/03 14:53:12 Camera position: -6064.885742 -692.011169 1173.896118
+10/03 14:53:12 Camera position: -6067.431152 -703.046692 1173.896118
+10/03 14:53:12 Camera position: -6071.385742 -718.581543 1173.896118
+10/03 14:53:12 Camera position: -6074.604980 -730.449219 1173.896118
+10/03 14:53:12 Camera position: -6079.181641 -746.163025 1173.896118
+10/03 14:53:12 Camera position: -6082.490234 -756.917542 1173.896118
+10/03 14:53:13 Camera position: -6087.053223 -770.788513 1173.896118
+10/03 14:53:13 Camera position: -6090.968262 -782.297607 1173.896118
+10/03 14:53:13 Camera position: -6094.967773 -794.133972 1174.396484
+10/03 14:53:13 Camera position: -6100.131348 -809.365601 1174.396484
+10/03 14:53:13 Camera position: -6105.360352 -824.278015 1175.348755
+10/03 14:53:13 Camera position: -6109.772949 -836.374634 1175.348755
+10/03 14:53:13 Camera position: -6114.051758 -847.690674 1175.348755
+10/03 14:53:13 Camera position: -6119.545898 -861.920349 1175.348755
+10/03 14:53:13 Camera position: -6124.050781 -873.592529 1175.534058
+10/03 14:53:13 Camera position: -6128.201660 -884.361694 1175.534058
+10/03 14:53:13 Camera position: -6133.777832 -899.024902 1175.534058
+10/03 14:53:13 Camera position: -6128.678711 -911.128052 1175.600098
+10/03 14:53:13 Camera position: -5996.510254 -942.359192 1175.802734
+10/03 14:53:13 Camera position: -5829.342285 -973.159851 1175.902222
+10/03 14:53:13 Camera position: -5362.604004 -1047.599854 1183.280273
+10/03 14:53:13 Camera position: -4891.184570 -1119.624146 1188.715698
+10/03 14:53:13 Camera position: -4373.337402 -1197.703857 1192.773926
+10/03 14:53:13 Camera position: -3696.121094 -1299.054443 1209.833374
+10/03 14:53:13 Camera position: -3217.412598 -1370.568481 1227.820313
+10/03 14:53:13 Camera position: -2679.923096 -1450.811401 1243.501587
+10/03 14:53:13 Camera position: -2259.842285 -1513.360840 1233.707153
+10/03 14:53:13 Camera position: -1941.724243 -1560.604614 1219.734253
+10/03 14:53:13 Camera position: -1663.420410 -1601.937988 1208.817139
+10/03 14:53:13 Camera position: -1430.797363 -1636.505127 1192.181274
+10/03 14:53:13 Camera position: -1259.677612 -1661.869629 1177.818604
+10/03 14:53:13 Camera position: -1123.113770 -1682.047607 1167.659058
+10/03 14:53:13 Camera position: -1018.772583 -1697.493164 1159.583252
+10/03 14:53:13 Camera position: -922.998657 -1711.718994 1152.580078
+10/03 14:53:13 Camera position: -860.065918 -1721.034668 1148.595215
+10/03 14:53:13 Camera position: -811.481873 -1728.230957 1145.749756
+10/03 14:53:14 Camera position: -772.198181 -1734.272217 1143.525635
+10/03 14:53:14 Camera position: -740.986816 -1739.256592 1141.979126
+10/03 14:53:14 Camera position: -712.937622 -1743.766602 1141.003662
+10/03 14:53:14 Camera position: -700.884277 -1745.706543 1140.684570
+10/03 14:53:14 Camera position: -678.027466 -1749.807861 1140.230469
+10/03 14:53:14 Camera position: -669.547485 -1751.529541 1140.230469
+10/03 14:53:14 Camera position: -653.982300 -1755.090332 1140.230469
+10/03 14:53:14 Camera position: -644.402588 -1757.593018 1140.230469
+10/03 14:53:14 Camera position: -635.693848 -1760.494873 1140.230469
+10/03 14:53:14 Camera position: -630.215515 -1762.628662 1140.230469
+10/03 14:53:14 Camera position: -623.119507 -1766.010986 1140.230469
+10/03 14:53:14 Camera position: -616.626770 -1769.866211 1140.230469
+10/03 14:53:14 Camera position: -611.147156 -1773.862305 1140.230469
+10/03 14:53:14 Camera position: -605.081543 -1778.987061 1140.230469
+10/03 14:53:14 Camera position: -600.243530 -1784.268311 1140.230469
+10/03 14:53:14 Camera position: -595.807922 -1790.279541 1140.230469
+10/03 14:53:14 Camera position: -590.255310 -1799.469971 1140.230469
+10/03 14:53:14 Camera position: -586.556519 -1806.453613 1140.230469
+10/03 14:53:14 [Particles] Unable to find a valid model handle for m_bModelFromRenderer in 'particles/items5_fx/neutral_treasurebox_lvl0.vpcf'
+10/03 14:53:14 [Particles] Unable to find a valid model handle for m_bModelFromRenderer in 'particles/items5_fx/neutral_treasurebox_lvl0.vpcf'
+10/03 14:53:14 Camera position: -583.646851 -1813.211182 1140.230469
+10/03 14:53:14 Camera position: -581.146729 -1819.967041 1140.230469
+10/03 14:53:14 Camera position: -578.496216 -1828.450928 1140.230469
+10/03 14:53:14 Camera position: -576.097412 -1837.482422 1140.230469
+10/03 14:53:14 Camera position: -574.019897 -1846.330811 1140.230469
+10/03 14:53:14 Camera position: -572.165649 -1855.154297 1140.230469
+10/03 14:53:14 Camera position: -569.897095 -1867.211670 1140.230469
+10/03 14:53:14 Camera position: -568.903503 -1872.927734 1140.230469
+10/03 14:53:14 Camera position: -567.262085 -1883.765625 1140.230469
+10/03 14:53:14 Camera position: -566.321655 -1891.778564 1140.230469
+10/03 14:53:14 Camera position: -565.457581 -1899.268066 1140.230469
+10/03 14:53:15 Camera position: -564.521606 -1906.872070 1140.230469
+10/03 14:53:15 Camera position: -563.393066 -1916.514893 1139.828613
+10/03 14:53:15 Camera position: -563.122681 -1919.779785 1139.828613
+10/03 14:53:15 Camera position: -562.401489 -1928.821045 1139.828613
+10/03 14:53:15 Camera position: -562.011230 -1933.630127 1139.828613
+10/03 14:53:15 Camera position: -561.554321 -1940.245361 1139.828613
+10/03 14:53:15 Camera position: -561.237366 -1948.181641 1139.931885
+10/03 14:53:15 Camera position: -561.035217 -1953.389160 1139.931885
+10/03 14:53:15 Camera position: -560.770325 -1956.746338 1139.931885
+10/03 14:53:15 Camera position: -560.336792 -1961.292236 1139.931885
+10/03 14:53:15 Camera position: -559.858276 -1967.376221 1139.931885
+10/03 14:53:15 Camera position: -559.467224 -1973.354980 1139.931885
+10/03 14:53:15 Camera position: -559.227905 -1978.499512 1139.931885
+10/03 14:53:15 Camera position: -554.858215 -1970.916260 1139.931885
+10/03 14:53:15 Camera position: -547.808777 -1954.571533 1140.164795
+10/03 14:53:15 Camera position: -527.947815 -1905.331055 1140.460571
+10/03 14:53:15 Camera position: -512.455017 -1865.851318 1140.579468
+10/03 14:53:15 Camera position: -487.680450 -1802.199463 1139.790283
+10/03 14:53:15 Camera position: -458.661530 -1727.477051 1139.233398
+10/03 14:53:15 Camera position: -428.502869 -1649.744385 1138.860474
+10/03 14:53:15 Camera position: -395.031891 -1563.418213 1136.598633
+10/03 14:53:15 Camera position: -352.901886 -1454.615234 1134.697510
+10/03 14:53:15 Camera position: -328.287354 -1390.882568 1133.863647
+10/03 14:53:15 Camera position: -290.188843 -1292.247559 1130.472656
+10/03 14:53:15 Camera position: -262.785034 -1221.620850 1128.668335
+10/03 14:53:15 Camera position: -238.833954 -1159.868408 1127.453613
+10/03 14:53:15 Camera position: -217.683273 -1104.989136 1124.667236
+10/03 14:53:15 Camera position: -198.603317 -1055.412598 1122.689697
+10/03 14:53:15 Camera position: -174.813980 -994.303223 1120.767334
+10/03 14:53:15 Camera position: -159.410385 -954.889160 1119.522705
+10/03 14:53:15 Camera position: -144.129913 -915.324280 1118.514404
+10/03 14:53:16 Camera position: -127.752510 -872.627625 1117.697021
+10/03 14:53:16 Camera position: -115.261810 -840.249451 1116.834473
+10/03 14:53:16 Camera position: -104.442978 -812.323792 1116.258057
+10/03 14:53:16 Camera position: -90.120186 -775.488220 1115.804321
+10/03 14:53:16 Camera position: -83.786278 -759.372314 1115.715576
+10/03 14:53:16 Camera position: -74.788071 -737.079712 1115.611816
+10/03 14:53:16 Camera position: -67.307915 -719.064758 1115.546509
+10/03 14:53:16 Camera position: -59.633621 -701.364258 1115.644287
+10/03 14:53:16 Camera position: -50.573845 -681.647583 1115.695068
+10/03 14:53:16 Camera position: -42.279282 -666.098328 1115.757080
+10/03 14:53:16 Camera position: -34.732731 -653.513306 1115.757080
+10/03 14:53:16 Camera position: -29.021986 -644.732117 1116.072754
+10/03 14:53:16 Camera position: -21.349360 -633.712280 1116.072754
+10/03 14:53:16 Camera position: -13.629328 -624.008301 1116.072754
+10/03 14:53:16 Camera position: -6.672393 -616.077087 1116.072754
+10/03 14:53:16 Camera position: 0.260903 -608.745361 1116.072754
+10/03 14:53:16 Camera position: 9.068006 -599.999939 1116.072754
+10/03 14:53:16 Camera position: 13.998407 -595.393677 1116.072754
+10/03 14:53:16 Camera position: 21.717531 -588.597534 1116.072754
+10/03 14:53:16 Camera position: 27.501659 -584.064209 1116.072754
+10/03 14:53:16 Camera position: 32.702354 -580.276733 1116.072754
+10/03 14:53:16 Camera position: 38.112743 -576.355042 1116.072754
+10/03 14:53:16 Camera position: 44.317993 -571.908447 1116.072754
+10/03 14:53:16 Camera position: 48.934917 -568.853943 1116.072754
+10/03 14:53:16 Camera position: 53.282864 -566.171936 1116.072754
+10/03 14:53:16 Camera position: 57.820614 -563.735046 1116.072754
+10/03 14:53:16 Camera position: 63.611290 -561.045105 1116.072754
+10/03 14:53:16 Camera position: 68.442200 -559.374329 1116.072754
+10/03 14:53:16 Camera position: 73.111244 -558.095947 1116.072754
+10/03 14:53:16 Camera position: 80.038506 -556.812805 1116.072754
+10/03 14:53:16 Camera position: 85.318001 -556.126709 1116.072754
+10/03 14:53:17 Camera position: 92.551476 -555.576843 1116.072754
+10/03 14:53:17 Camera position: 98.220100 -555.372925 1116.072754
+10/03 14:53:17 Camera position: 105.347908 -555.569641 1116.072754
+10/03 14:53:17 Camera position: 115.368942 -556.307983 1116.072754
+10/03 14:53:17 Camera position: 123.201363 -557.398254 1116.072754
+10/03 14:53:17 Camera position: 131.335556 -558.867310 1116.072754
+10/03 14:53:17 Camera position: 139.413559 -560.646729 1116.072754
+10/03 14:53:17 Camera position: 149.622543 -563.190735 1116.072754
+10/03 14:53:17 Camera position: 158.154221 -565.611328 1116.072754
+10/03 14:53:17 Camera position: 166.430328 -568.147034 1116.072754
+10/03 14:53:17 Camera position: 175.345093 -571.148010 1116.072754
+10/03 14:53:17 Camera position: 187.159561 -575.400513 1116.072754
+10/03 14:53:17 Camera position: 197.010559 -579.195496 1116.072754
+10/03 14:53:17 Camera position: 207.120941 -583.236511 1116.072754
+10/03 14:53:17 Camera position: 216.743179 -587.333435 1116.072754
+10/03 14:53:17 Camera position: 231.168304 -593.818726 1116.072754
+10/03 14:53:17 Camera position: 242.146591 -598.987732 1116.072754
+10/03 14:53:17 Camera position: 252.020706 -603.759338 1116.072754
+10/03 14:53:17 Camera position: 264.964386 -610.211914 1116.072754
+10/03 14:53:17 Camera position: 275.070557 -615.356384 1116.072754
+10/03 14:53:17 Camera position: 284.563232 -620.229492 1116.072754
+10/03 14:53:17 Camera position: 300.581970 -628.503967 1116.072754
+10/03 14:53:17 Camera position: 310.786194 -633.978027 1116.072754
+10/03 14:53:17 Camera position: 323.429565 -640.958557 1117.158569
+10/03 14:53:17 Camera position: 339.111145 -649.827393 1117.158569
+10/03 14:53:17 Camera position: 348.871918 -655.425354 1117.158569
+10/03 14:53:17 Camera position: 365.111664 -664.228394 1118.047729
+10/03 14:53:17 Camera position: 376.997711 -670.318359 1118.047729
+10/03 14:53:17 Camera position: 388.520935 -675.897278 1118.047729
+10/03 14:53:17 Camera position: 401.419647 -681.859924 1118.940552
+10/03 14:53:18 Camera position: 417.186371 -688.592407 1118.940552
+10/03 14:53:18 Camera position: 430.466553 -693.825684 1119.688110
+10/03 14:53:18 Camera position: 447.399139 -700.058105 1120.289673
+10/03 14:53:18 Camera position: 461.224792 -704.864197 1120.848389
+10/03 14:53:18 Camera position: 495.380981 -715.904785 1124.238281
+10/03 14:53:18 Camera position: 503.003784 -717.871948 1124.238281
+10/03 14:53:18 Camera position: 521.313416 -722.256104 1124.527832
+10/03 14:53:18 Camera position: 545.861084 -727.626953 1124.947876
+10/03 14:53:18 Camera position: 565.425049 -731.647461 1125.648193
+10/03 14:53:18 Camera position: 583.803894 -735.160828 1126.035400
+10/03 14:53:18 Camera position: 604.926514 -738.915588 1126.313232
+10/03 14:53:18 Camera position: 621.779541 -741.696289 1126.855103
+10/03 14:53:18 Camera position: 641.487976 -744.680298 1127.078857
+10/03 14:53:18 Camera position: 657.730774 -746.899719 1127.462280
+10/03 14:53:18 Camera position: 672.568665 -748.720642 1127.937744
+10/03 14:53:18 Camera position: 693.344910 -750.903442 1128.176147
+10/03 14:53:18 Camera position: 708.792542 -752.379822 1128.513794
+10/03 14:53:18 Camera position: 725.045349 -753.869141 1128.920654
+10/03 14:53:18 Camera position: 745.218140 -755.639160 1129.239502
+10/03 14:53:18 Camera position: 762.315674 -757.070679 1129.583374
+10/03 14:53:18 Camera position: 782.743408 -758.569092 1130.186523
+10/03 14:53:18 Camera position: 798.930359 -759.465088 1130.505249
+10/03 14:53:18 Camera position: 814.954346 -760.244751 1130.799927
+10/03 14:53:18 Camera position: 832.318970 -761.120178 1131.776855
+10/03 14:53:18 Camera position: 853.542786 -762.133057 1132.487427
+10/03 14:53:18 Camera position: 869.663086 -762.777405 1132.839600
+10/03 14:53:18 Camera position: 885.112488 -763.327271 1133.305542
+10/03 14:53:18 Camera position: 901.393127 -763.860352 1134.077393
+10/03 14:53:19 Camera position: 919.081238 -764.404907 1134.929199
+10/03 14:53:19 Camera position: 939.915039 -765.009033 1135.592407
+10/03 14:53:19 Camera position: 956.066528 -765.404541 1136.108398
+10/03 14:53:19 Camera position: 973.987854 -765.663513 1136.592529
+10/03 14:53:19 Camera position: 995.179871 -765.827148 1137.606934
+10/03 14:53:19 Camera position: 1011.354187 -765.898987 1138.191162
+10/03 14:53:19 Camera position: 1025.993164 -765.937988 1138.428223
+10/03 14:53:19 Camera position: 1047.074585 -765.968872 1138.965454
+10/03 14:53:19 Camera position: 1064.088379 -765.982239 1139.243896
+10/03 14:53:19 Camera position: 1079.549683 -765.989624 1139.468872
+10/03 14:53:19 Camera position: 1094.521240 -765.962585 1139.824463
+10/03 14:53:19 Camera position: 1114.860107 -765.681396 1140.167725
+10/03 14:53:19 Camera position: 1130.096680 -765.367737 1140.422607
+10/03 14:53:19 Camera position: 1146.409180 -764.991821 1140.929932
+10/03 14:53:19 Camera position: 1167.058960 -764.478027 1141.593140
+10/03 14:53:19 Camera position: 1183.490234 -764.033386 1142.184326
+10/03 14:53:19 Camera position: 1202.510010 -763.488159 1142.530151
+10/03 14:53:19 Camera position: 1218.112549 -763.017456 1142.894409
+10/03 14:53:19 Camera position: 1232.172852 -762.551697 1143.167603
+10/03 14:53:19 Camera position: 1247.366455 -761.919189 1143.748169
+10/03 14:53:19 Camera position: 1267.718384 -760.947571 1144.530762
+10/03 14:53:19 Camera position: 1286.333008 -759.968079 1145.542603
+10/03 14:53:19 Camera position: 1302.978516 -759.031738 1146.626953
+10/03 14:53:19 Camera position: 1314.979614 -758.304993 1147.209106
+10/03 14:53:19 Camera position: 1330.570801 -757.314270 1147.957153
+10/03 14:53:19 Camera position: 1349.948608 -756.101013 1148.466309
+10/03 14:53:19 Camera position: 1364.426270 -755.212158 1148.881348
+10/03 14:53:19 Camera position: 1379.673706 -754.302246 1149.249023
+10/03 14:53:19 Camera position: 1399.153564 -753.150513 1149.900635
+10/03 14:53:19 Camera position: 1414.539429 -752.198792 1150.563110
+10/03 14:53:19 Camera position: 1429.293213 -751.284546 1151.088867
+10/03 14:53:20 Camera position: 1444.968628 -750.497925 1152.030151
+10/03 14:53:20 Camera position: 1459.153320 -749.905151 1152.634155
+10/03 14:53:20 Camera position: 1474.549683 -749.340637 1153.262085
+10/03 14:53:20 Camera position: 1493.621704 -748.702515 1153.875244
+10/03 14:53:20 Camera position: 1507.774170 -748.228638 1154.503662
+10/03 14:53:20 Camera position: 1524.980469 -747.646973 1155.017578
+10/03 14:53:20 Camera position: 1538.992920 -747.181152 1155.867432
+10/03 14:53:20 Camera position: 1552.494629 -746.746338 1155.867432
+10/03 14:53:23 [Client] CL:  disconnect hud disconnect
+10/03 14:53:23 [Client] CL:  Server disconnected: 2: NETWORK_DISCONNECT_DISCONNECT_BY_USER
+10/03 14:53:23 [Client] CL:  Disconnecting from server: NETWORK_DISCONNECT_DISCONNECT_BY_USER
+10/03 14:53:23 [Demo] Demo playback finished ( 56.5 seconds, 5396 render frames, 95.57 fps).
+10/03 14:53:23 [HostStateManager] CHostStateMgr::QueueNewRequest( Idle (levelload), 4 )
+10/03 14:53:23 [EngineServiceManager] SwitchToLoop levelload requested:  id [4] addons []
+10/03 14:53:23 [Client] CL:  IGameSystem::LoopDeactivateAllSystems {
+10/03 14:53:23 WriteSteamRemoteStorageFileAsync( "scripts/control_groups.txt" ) -> at 117.364
+10/03 14:53:23 [Host] HO:  IGameSystem::LoopDeactivateAllSystems {
+10/03 14:53:23 [Host] HO:  } IGameSystem::LoopDeactivateAllSystems done
+10/03 14:53:23 [Client] CL:  } IGameSystem::LoopDeactivateAllSystems done
+10/03 14:53:23 [stringtables] CL:  CNetworkStringTableContainer::RemoveAllTables:  removing 20 tables
+10/03 14:53:23 CDOTA_UI_UGCImageDownloader::RemoveUGCRequest request for handle (1009310639742423917) to be removed which did not exist
+10/03 14:53:23 CDOTA_UI_UGCImageDownloader::RemoveUGCRequest request for handle (1009310639742423917) to be removed which did not exist
+10/03 14:53:23 CDOTA_UI_UGCImageDownloader::RemoveUGCRequest request for handle (1009310639742423917) to be removed which did not exist
+10/03 14:53:23 CDOTA_UI_UGCImageDownloader::RemoveUGCRequest request for handle (1009310639742423917) to be removed which did not exist
+10/03 14:53:24 ILocalize::AddFile() failed to load file "resource/localization/broadcastfacts_english.txt".
+10/03 14:53:24 [Client] CL:  CGameRulesGameSystem::GameShutdown uninstalled game rules
+10/03 14:53:24 [Client] CL:  CGameRules::CGameRules destructed
+10/03 14:53:24 WriteSteamRemoteStorageFileAsync( "voice_ban.dt" ) -> at 117.742
+10/03 14:53:24 ChangeGameUIState: DOTA_GAME_UI_DOTA_INGAME -> DOTA_GAME_UI_STATE_LOADING_SCREEN
+10/03 14:53:24 [Client] LoadingDisplay changed from NONE to LOADING (map="")
+10/03 14:53:24 [HostStateManager] Idle (levelload)
+10/03 14:53:24 CAsyncWriteInProgress::OnComplete( "scripts/control_groups.txt" ) -> Success at 117.744
+10/03 14:53:24 CAsyncWriteInProgress::OnComplete( "voice_ban.dt" ) -> Success at 117.744
+10/03 14:53:24 [Client] CL:  CLoopModeLevelLoad::MaybeSwitchToGameLoop switching to "game" loopmode with addons ()
+10/03 14:53:24 [EngineServiceManager] SwitchToLoop game requested:  id [4] addons []
+10/03 14:53:24 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 23789 (was 23799)
+10/03 14:53:24 [ResourceSystem] Error loading resource file "panorama/images/spellicons/dota_base_ability_png.vtex_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:24 [Server] CNetworkGameServerBase::SetServerState (ss_dead -> ss_waitingforgamesessionmanifest)
+10/03 14:53:24 [Server] SV:  maxplayers set to 1
+10/03 14:53:24 Initializing script VM...
+10/03 14:53:24 ...done
+10/03 14:53:24 CSpeechScriptBridge was double-initialized: tearing down and rebuilding
+10/03 14:53:24 [Server] SV:  Spawn Server: <empty>
+10/03 14:53:24 [Server] CNetworkGameServerBase::SetServerState (ss_waitingforgamesessionmanifest -> ss_loading)
+10/03 14:53:24 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 16896 (was 23836)
+10/03 14:53:24 [Server] CNetworkGameServerBase::SetServerState (ss_loading -> ss_active)
+10/03 14:53:24 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 10153 (was 17103)
+10/03 14:53:24 [Client] CL:  CWaitForGameServerStartupPrerequisite done waiting for server
+10/03 14:53:24 [Client] CL:  CCreateGameClientJob creating client connection to 'loopback'
+10/03 14:53:24 [SteamNetSockets] [#3106223578 pipe] connected
+10/03 14:53:24 [SteamNetSockets] [#2278230291 pipe] connected
+10/03 14:53:24 [Networking] Created poll group for socket 'client'
+10/03 14:53:24 [Networking] Created poll group for socket 'server'
+10/03 14:53:24 [Networking] Connected loopback client=b92535da@loopback:1 <-> server=87cb0913@loopback:0
+10/03 14:53:24 [NetSteamConn] Associating NetChan      NamČor            loopback:0[1] (loopback:0) with Steam Net Connection handle #2278230291 (userdata 0)
+10/03 14:53:24 [NetSteamConn] Associating NetChan       client            loopback:1[0] (loopback:1) with Steam Net Connection handle #3106223578 (userdata 1)
+10/03 14:53:24 [Client] CL:  Connected to 'loopback:1'
+10/03 14:53:24 [Server] SV:  Sending server info to client 'NamČor' at loopback:0
+10/03 14:53:24 [Server] SV:  WriteInitialSpawnGroups sending 1 groups
+10/03 14:53:24 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 4606 (was 10296)
+10/03 14:53:24 [Client] Game: "Dota 2"
+10/03 14:53:24 [Client] Map: "<empty>"
+10/03 14:53:24 [Client] Players: 1 (0 bots) / 1 humans
+10/03 14:53:24 [Client] Build: 8715 (revision 6121912)
+10/03 14:53:24 [Client] Server Number: 2
+10/03 14:53:24 [SignonState] CL:  CNetworkGameClient::ProcessServerInfo
+10/03 14:53:24 ReadSteamRemoteStorageFile( bufOut, "voice_ban.dt" ) -> 0.000247 seconds
+10/03 14:53:24 [Panorama] DispatchAsyncEvent backlog, failed to dispatch all this frame. Remaining queue depth: 2677 (was 4887)
+10/03 14:53:24 [ResourceSystem] Error loading resource file "maps/dota/entities/neutralcamp_good_3_2699_9825.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:24 [ResourceSystem] Error loading resource file "maps/dota/entities/neutralcamp_evil_3_2699_9837.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/neutralcamp_good_6_2699_9821.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/neutralcamp_evil_5_2699_9833.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/neutralcamp_evil_4_2699_9835.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/neutralcamp_evil_1_2699_9839.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/unnamed_2699_9848.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/unnamed_2699_9851.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/unnamed_2699_25707.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/unnamed_2699_25701.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/unnamed_2699_26396.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/neutralcamp_evil_8_2699_26645.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/neutralcamp_evil_7_2699_27172.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/neutralcamp_good_7_2699_27175.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/neutralcamp_good_5_2699_27178.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/neutralcamp_evil_6_2699_27320.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/neutralcamp_good_4_2699_9823.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/neutralcamp_evil_2_2699_9841.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/neutralcamp_evil_9_2699_27340.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/neutralcamp_good_8_2699_27461.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/neutralcamp_good_9_2699_27484.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/roshan_location_2699_27790.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/unnamed_2699_27805.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/unnamed_2699_27807.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/bad_result_position_2699_28052.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/bad_result_position_2699_28056.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/bad_result_position_2699_28058.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/bad_result_position_2699_28060.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/bad_result_position_2699_28066.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/unnamed_2716_4090_49.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/unnamed_2716_2431_58.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/unnamed_2716_4090_43.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/neutralcamp_good_2_2699_9827.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:26 [ResourceSystem] Error loading resource file "maps/dota/entities/neutralcamp_good_1_2699_9829.vmdl_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:27 [Client] CL:  CGameClientConnectPrerequisite connection succeeded
+10/03 14:53:27 ChangeGameUIState: DOTA_GAME_UI_STATE_LOADING_SCREEN -> DOTA_GAME_UI_STATE_DASHBOARD
+10/03 14:53:27 [Client] LoadingDisplay changed from LOADING to NONE (map="<empty>")
+10/03 14:53:27 [Server] SV:  IGameSystem::LoopActivateAllSystems {
+10/03 14:53:27 [Host] HO:  IGameSystem::LoopActivateAllSystems {
+10/03 14:53:27 [Host] HO:  } IGameSystem::LoopActivateAllSystems done
+10/03 14:53:27 [Server] SV:  } IGameSystem::LoopActivateAllSystems done
+10/03 14:53:27 [Server] SV:  Game started
+10/03 14:53:27 [Client] CL:  IGameSystem::LoopActivateAllSystems {
+10/03 14:53:27 ReadSteamRemoteStorageFile( bufOut, "scripts/control_groups.txt" ) -> 0.000240 seconds
+10/03 14:53:27 [Client] CL:  } IGameSystem::LoopActivateAllSystems done
+10/03 14:53:27 [SignonState] CL:  CNetworkGameClient::OnSwitchLoopModeFinished( game : success )
+10/03 14:53:27 [GCClient] Send msg 7197 (k_EMsgGCMatchmakingStatsRequest), 8 bytes
+10/03 14:53:27 [Server] SV:  Sending full update to client NamČor (reason:  initial update)
+10/03 14:53:27 [Client] CL:  Receiving uncompressed update from server
+10/03 14:53:27 [Networking]       client            loopback:1[0]:  NetChan Setting Timeout to 30.00 seconds
+10/03 14:53:27 [Client] CL:  Signon traffic "client":  incoming 52.059 KB [180 pkts], outgoing 1.326 KB [175 pkts]
+10/03 14:53:27 [GCClient] Send msg 8673 (k_EMsgClientToGCRequestGuildData), 19 bytes
+10/03 14:53:27 [Networking]      NamČor            loopback:0[1]:  NetChan Setting Timeout to 20.00 seconds
+10/03 14:53:27 [ResourceSystem] Error loading resource file "maps/backgrounds/dashboard_parallax_ti10/world.vrman_c" (Error: ERROR_FILEOPEN)
+10/03 14:53:27 [ResourceSystem] WARNING: RESOURCE_TYPE_WORLD resource 'maps/backgrounds/dashboard_parallax_ti10/world.vwrld' (8C2E657F543B122F) requested but is not in the system. (Missing from from a manifest?)
+10/03 14:53:27 [WorldRenderer] Warning: Error resource loaded for level maps/backgrounds/dashboard_parallax_ti10/world.vwrld
+10/03 14:53:27 [GCClient] Recv msg 8674 (k_EMsgClientToGCRequestGuildDataResponse), 19 bytes
+10/03 14:53:28 [GCClient] Recv msg 7198 (k_EMsgGCMatchmakingStatsResponse), 324 bytes
+10/03 14:54:28 [GCClient] Send msg 7197 (k_EMsgGCMatchmakingStatsRequest), 8 bytes
+10/03 14:54:28 [GCClient] Recv msg 7198 (k_EMsgGCMatchmakingStatsResponse), 326 bytes
+10/03 14:55:16 [HostStateManager] CHostStateMgr::QueueNewRequest( Quitting, 5 )
+10/03 14:55:16 [HostStateManager] CHostStateMgr::QueueNewRequest( Quitting, 6 )
+10/03 14:55:16 [HostStateManager] CHostStateMgr::QueueNewRequest( Quitting, 7 )
+10/03 14:55:16 CDOTA_UI_UGCImageDownloader::RemoveUGCRequest request for handle (359525062636833025) to be removed which did not exist
+10/03 14:55:16 CDOTA_UI_UGCImageDownloader::RemoveUGCRequest request for handle (359525062636833025) to be removed which did not exist
+10/03 14:55:16 [Client] CL:  AsyncUnloadSpawnGroup( CO-109 ) -- no such spawn group
+10/03 14:55:16 [Client] CL:  Disconnecting from server: NETWORK_DISCONNECT_EXITING
+10/03 14:55:16 [NetSteamConn] Closing Steam Net Connection on socket 'client' to loopback:1, handle #3106223578 (1059 NETWORK_DISCONNECT_EXITING)
+10/03 14:55:16 [NetSteamConn] CloseSteamNetConnection handle #3106223578 (userdata 1)
+10/03 14:55:16 [NetSteamConn] Disassociating NetChan       client                      [-1] (unknown) from Steam Net Connection handle #3106223578 (userdata 1)
+10/03 14:55:16 [SteamNetSockets] [#2278230291 pipe] closed by peer
+10/03 14:55:16 [NetSteamConn] Removing Steam Net Connection for loopback:1, handle #3106223578
+10/03 14:55:16 [Networking] Closing 'client' poll group
+10/03 14:55:16 [Server] SV:  Server shutting down: NETWORK_DISCONNECT_EXITING (59)
+10/03 14:55:16 [Server] CNetworkGameServerBase::SetServerState (ss_active -> ss_dead)
+10/03 14:55:16 [Server] SV:  Disconnect client 'NamČor' from server(1): NETWORK_DISCONNECT_SHUTDOWN
+10/03 14:55:16 [SignonState] Client 1 'NamČor' signon state SIGNONSTATE_FULL -> SIGNONSTATE_NONE
+10/03 14:55:16 [NetSteamConn] Closing Steam Net Connection on socket 'server' to loopback:0, handle #2278230291 (1001 NETWORK_DISCONNECT_SHUTDOWN)
+10/03 14:55:16 [NetSteamConn] CloseSteamNetConnection handle #2278230291 (userdata 0)
+10/03 14:55:16 [NetSteamConn] Disassociating NetChan      NamČor                      [-1] (unknown) from Steam Net Connection handle #2278230291 (userdata 0)
+10/03 14:55:16 [NetSteamConn] Removing Steam Net Connection for loopback:0, handle #2278230291
+10/03 14:55:16 [Networking] Closing 'server' poll group
+10/03 14:55:16 [Client] CL:  IGameSystem::LoopDeactivateAllSystems {
+10/03 14:55:16 WriteSteamRemoteStorageFileAsync( "scripts/control_groups.txt" ) -> at 229.804
+10/03 14:55:16 [Client] CL:  } IGameSystem::LoopDeactivateAllSystems done
+10/03 14:55:16 [stringtables] CL:  CNetworkStringTableContainer::RemoveAllTables:  removing 20 tables
+10/03 14:55:16 [Server] SV:  IGameSystem::LoopDeactivateAllSystems {
+10/03 14:55:16 [Host] HO:  IGameSystem::LoopDeactivateAllSystems {
+10/03 14:55:16 [Host] HO:  } IGameSystem::LoopDeactivateAllSystems done
+10/03 14:55:16 [Server] SV:  } IGameSystem::LoopDeactivateAllSystems done
+10/03 14:55:16 [stringtables] SV:  CNetworkStringTableContainer::RemoveAllTables:  removing 20 tables
+10/03 14:55:16 WriteSteamRemoteStorageFileAsync( "voice_ban.dt" ) -> at 229.907
+10/03 14:55:16 [HostStateManager] Quitting
+10/03 14:55:16 Dispatching EventAppShutdown_t {
+10/03 14:55:16 [SplitScreen] Saved 'user_keys.vcfg' to SteamRemoteStorage, 449 bytes OK
+10/03 14:55:16 [SplitScreen] Saved user config file 'cfg/user_keys_24661567_slot0.vcfg'
+10/03 14:55:16 [SplitScreen] Saved offline user config file 'cfg/user_keys_0_slot0.vcfg'
+10/03 14:55:16 [SplitScreen] Saved 'user.vcfg' to SteamRemoteStorage, 1360 bytes OK
+10/03 14:55:16 [SplitScreen] Saved user config file 'cfg/user_24661567_slot0.vcfg'
+10/03 14:55:16 [SplitScreen] Saved offline user config file 'cfg/user_0_slot0.vcfg'
+10/03 14:55:16 [SplitScreen] Saved 'user_keys.vcfg' to SteamRemoteStorage, 449 bytes OK
+10/03 14:55:16 [SplitScreen] Saved user config file 'cfg/user_keys_24661567_slot0.vcfg'
+10/03 14:55:16 [SplitScreen] Saved offline user config file 'cfg/user_keys_0_slot0.vcfg'
+10/03 14:55:16 [SplitScreen] Saved user config file 'cfg/user_keys_24661567_slot1.vcfg'
+10/03 14:55:16 [SplitScreen] Saved offline user config file 'cfg/user_keys_0_slot1.vcfg'
+10/03 14:55:16 [SplitScreen] Saved user config file 'cfg/user_keys_24661567_slot2.vcfg'
+10/03 14:55:16 [SplitScreen] Saved offline user config file 'cfg/user_keys_0_slot2.vcfg'
+10/03 14:55:16 [SplitScreen] Saved user config file 'cfg/user_keys_24661567_slot3.vcfg'
+10/03 14:55:16 [SplitScreen] Saved offline user config file 'cfg/user_keys_0_slot3.vcfg'
+10/03 14:55:16 } Dispatched EventAppShutdown_t
+10/03 14:55:16 MainLoop returning
+10/03 14:55:16 Source2Shutdown
+10/03 14:55:16 ShutdownSource2Logging
